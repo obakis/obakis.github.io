@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 444.14062 38.710938"
+   viewBox="0 0 344.32397 30.011"
    version="1.1"
    id="svg17"
    sodipodi:docname="email.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="444.14062"
-   height="38.710938">
+   width="344.32397"
+   height="30.011">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -40,10 +40,10 @@
      id="namedview19"
      showgrid="false"
      inkscape:zoom="0.40972222"
-     inkscape:cx="17.318391"
-     inkscape:cy="62.015227"
-     inkscape:window-x="787"
-     inkscape:window-y="120"
+     inkscape:cx="-347.56297"
+     inkscape:cy="62.015235"
+     inkscape:window-x="398"
+     inkscape:window-y="135"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg17"
      fit-margin-top="0"
@@ -79,13 +79,14 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="-2.2070312"
-     y="30.390625"
+     style="font-style:normal;font-weight:normal;font-size:31.0103569px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77525878"
+     x="-1.7110207"
+     y="23.560604"
      id="text3728"
      clip-path="none"><tspan
        sodipodi:role="line"
        id="tspan3726"
-       x="-2.2070312"
-       y="30.390625">ozanbakis@gmail.com</tspan></text>
+       x="-1.7110207"
+       y="23.560604"
+       style="stroke-width:0.77525878">ozanbakis@gmail.com</tspan></text>
 </svg>
