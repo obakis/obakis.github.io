@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,12 +31,10 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
 }
 </script>
 
@@ -214,8 +212,12 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <div id="r-tutorials" class="section level2">
-<h2>R Tutorials</h2>
-<p>Here are some slides I used for R tutorials/presentations.</p>
+<h2>R tutorials</h2>
+<p>Here are some online R tutorials [Under development]</p>
+</div>
+<div id="r-slides" class="section level2">
+<h2>R slides</h2>
+<p>Here are some slides I used for R presentations.</p>
 <ul>
 <li><a href="R_slides/R_intro.pdf">Introduction to R</a></li>
 <li><a href="R_slides/R_ols.pdf">Multiple regression with R</a></li>
@@ -234,8 +236,8 @@ $(document).ready(function () {
 <li>Macroeconomics II, Galatasaray University, 2010-14.</li>
 </ul>
 </div>
-<div id="undergraduate" class="section level2">
-<h2>Undergraduate</h2>
+<div id="undergraduate-classes" class="section level2">
+<h2>Undergraduate classes</h2>
 <ul>
 <li>Econometrics I, Bahcesehir University, 2016,2018.</li>
 <li>Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017,2019.</li>
