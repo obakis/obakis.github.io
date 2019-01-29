@@ -1,0 +1,68 @@
+---
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119972040-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119972040-1');
+</script>
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<!-- 
+<img src="images/xxx.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> 
+--> 
+
+## About me
+
+Economist, Bahcesehir University and Betam    
+
+My full CV is <a href="https://obakis.github.io/pdfs/cv_bakis.pdf" target="_blank">here</a>. 
+You can find further information on my research on my <a href="https://www.researchgate.net/profile/Ozan_Bakis" target="_blank">ResearchGate </a> and  <a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ&hl=en" target="_blank">Google Scholar</a>  pages.   
+
+I received my PhD in Economics from University of Paris 1 Pantheon-Sorbonne in 2006.
+Before joining Betam as senior researcher in 2016 I worked, respectively, at Galatasaray University
+and Sabanci University. I did my postdoc at University of Montreal in 2011. My recent
+research is focused on firm dynamics with a particular focus on SME problems and innovation,
+productivity, labor market dynamics and short-run GDP growth forecasting. I consulted for the World Bank,
+the Turkish Statistical Institute, and some other private sector institutions in the past.
+
+I am an R enthusiast. I give R courses at various levels, from introduction to advanced classes. 
+
+
+## Contact Info
+
+Bahçeşehir University and Betam   
+Osmanpaşa Mektebi Sokak No:4-6   
+34353 Beşiktaş, Istanbul / Turkey    
+<b>Tel:</b> +90 212 381 0436    
+<img align="left" src="images/email.png">   
+ 
+---
+
+
+## Education
+
+- BA: Galatasaray University, 2001
+
+- PhD: University of Paris 1 Pantheon-Sorbonne, 2006
+
+
+## Employment
+
+- 2016-present: Assoc. Prof., Department of Economics, Bahçeşehir University
+- 2011-2016: Consultant, Sabancı University
+- 2008-2011: Lecturer, Galatasaray University
+- 2001-2008: Research Assistant, Galatasaray University
+
+
+#####
+
+__Disclaimer:__ The views expressed on this website are entirely those of the author. 
+	They do not necessarily represent the views of the Bahçeşehir University or Betam.
+	

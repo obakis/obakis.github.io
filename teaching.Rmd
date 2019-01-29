@@ -1,0 +1,40 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+## R tutorials
+
+Here are some online R tutorials [ **Under development** ]
+
+## R slides
+
+Here are some slides I used for R presentations.
+
+
+- [Introduction to R ](R_slides/R_intro.pdf)
+- [Multiple regression with R ](R_slides/R_ols.pdf)
+- [Regression with pooled cross sections](R_slides/R_pooled.pdf)
+- [Regression with panel data](R_slides/R_panel.pdf)
+- [Data reshaping with dplyr/tidyverse](R_slides/R_reshape.pdf)
+- [R graphics](R_slides/R_graphs.pdf)
+
+Note: Examples and data used in "Regression with pooled cross sections" and "Regression with panel data" 
+	are based on Introductory Economics, 5th ed., by J. Wooldridge
+
+
+## Graduate classes
+
+- Advanced Macroeconomics, Bahcesehir University, 2016-17.
+- Macroeconomics I, Galatasaray University, 2011-14.
+- Macroeconomics II, Galatasaray University, 2010-14.
+
+## Undergraduate classes
+
+- Econometrics I, Bahcesehir University, 2016,2018.
+- Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017,2019.
+- Public Finance, Sabanci University, 2016; Bahcesehir University, 2017-18.
+- Macroeconomics, Galatasaray University, 2009-10.
+- Programming in Economics, Galatasaray University, 2009-10.
+- Microeconomics, Galatasaray University, 2009.

@@ -1,0 +1,136 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Refereed Publications
+
+-   Unbundling curbside parking costs from housing prices (with E. Inci
+    ve R.O. Senturk), *Journal of Economic Geography*, forthcoming,
+    (SSCI).
+
+-   Determinants of academic achievement of middle schoolers in Turkey
+    (with B. Borkan), *Educational Sciences: Theory & Practice*, 16(6),
+    2193-2217, 2016. [Download paper](pdfs/art_academic_achievment_estp_2016.pdf)
+    [SSCI].
+
+
+-   Recent trends in the Turkish labor market, *İktisat İşletme ve
+    Finans*, 30(351), 73-110, 2015. [Download paper](pdfs/art_recent_trends_TLM_iif_2015.pdf)
+    [EconLit].
+
+-   Structural change and industrial policy in Turkey (with I. Atiyas),
+    *Emerging Markets Finance and Trade*, 51(6), 1209–1229, 2015.
+    [Download paper](pdfs/art_str_ch-indust_pol_emft_2015.pdf)
+    [SSCI, EconLit].
+
+-   Transitional dynamics and the optimal progressivity of income
+    redistribution (with B. Kaymak and M. Poschke), *Review of Economic
+    Dynamics*, 18(3), 679-693, 2015. [Download paper](pdfs/art_tax_RED_2015.pdf) 
+    [SSCI, EconLit].
+
+-   Wage Inequality in Turkey: 2002-10, (with S. Polat), *Economics of
+    Transition*, 23(1), 169-212, 2015. [Download paper](pdfs/art_wage_ineq_ecot_2015.pdf)
+    [SSCI, EconLit].
+
+-   Aggregate and sectoral TFP growth in Turkey: a growth accounting
+    exercise (with I. Atiyas), *İktisat İşletme ve Finans*, 29(341),
+    9-36, 2014. [Download paper](pdfs/art_tfp_iif_2014.pdf) 
+    [SSCI, EconLit].
+
+-   Quantile estimates for social returns to education in Turkey:
+    2006-2009 (with N. Davutyan, H. Levent and S. Polat), *Middle East
+    Development Journal*, 5(3), 1350017-1-1350017-23, 2013. 
+    [Download paper](pdfs/art_quintile_medj_2013.pdf) [EconLit].
+
+-   Sectoral human capital spillovers: evidence from Turkey (with N.
+    Davutyan, H. Levent and S. Polat), *İktisat İşletme ve Finans*,
+    26(298), 9-20, 2011. [Download paper](pdfs/art_spillover_iif_2011.pdf)
+    [SSCI, EconLit].
+
+##  Refereed Publications (in Turkish)
+
+-   Türkiye'de Çalışılan Saatlerin Dağılımı ve Değişimi (In English:
+    Distribution of Hours Worked in Turkey and Its Evolution) (with
+    Sezgin Polat, Mustafa Ulus), *Efil Ekonomi Araştırmaları Dergisi,*  1(4) 108-127, 2018. 
+    [Download paper](pdfs/art_saatler_efil_2018.pdf)
+
+-   Yeni GSYH Serilerinin Getirdiği Farklılıklar ve Sorunlar (In
+    English: The Differences and the Problems of the New GDP Series),
+    *İktisat Araştırmaları Dergisi,* 2(1), 15-42, 2018. 
+    [Download paper](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
+    (EconLit).
+
+-   Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması (In
+    English: Intergenerational Educational Mobility: An EU-Turkey
+    Comparison), *Finans Politik & Ekonomik Yorumlar,* 54(634), 97-105,
+    2017. [Download paper](pdfs/art_educ_mobility_fpey_2017.pdf)
+    (EconLit, Ulakbim SBVT).
+
+-   Türkiye'de eğitimin bireysel getirisi: 1988-2008 (In English:
+    Private returns to education in Turkey: 1988-2008), *Finans Politik
+    & Ekonomik Yorumlar,* 52(601), 69-75, 2015. 
+    [Download paper](pdfs/art_r2e_fpey_2015.pdf)
+    (EconLit, Ulakbim SBVT).
+
+##  Other Publications
+
+-   Depositor myopia and banking sector behaviour (with F. Karanfil
+    and S. Polat), chapter in *Financial Development, Economic Crises
+    and Emerging Market Economies* ed. by Ulgen, F., Routledge: London,
+    156-169, 2016.
+
+-   Interactions between economic growth, innovation, financial
+    development and sustainability in emerging countries (with F.
+    Karanfil and S. Polat), chapter in *Developing Economies:
+    Innovation, Investment and Sustainability* ed. by Carcillo, J.M.,
+    Nova Publishers: New York, 223-234, 2012.
+
+-   Social returns to education in Turkey: a quantile regression
+    approach (with S. Polat, N.Davutyan and H.Levent), chapter in
+    *Secondary Education in the 21st Century* ed. by Beckett, D.S., Nova
+    Publishers: New York, 101-119, 2010.
+
+##  Other Publications (in Turkish)
+
+-   Sıçrama Yapan Şirketler (In English: Leaping companies) (with I.
+    Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018.
+    [Download report](pdfs/rep_sicrama_yapan_sirketler_2018.pdf)
+
+-   İmalat sanayi sektörleri rekabet göstergeleri raporu (In English:
+    Report on manufacturing industries competitiveness indices) (with I.
+    Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014.
+    [Download report](pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf)
+
+-   Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In
+    English: Constraints to growth in Turkey: a study of prioritization)
+    (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
+    2011. [Download report](pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf)
+
+##  Working Papers
+
+-   Firm dynamics and job creation in Turkey - some preliminary results
+    (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
+    Competitiveness Forum Working Paper No. 2017-1
+
+-   Anatolian tigers and the emergence of the devout bourgeoisie in the
+    turkish manufacturing industry: an empirical analysis (with I.
+    Atiyas and E. Ceviker Gurakar) Working Paper No 1064, Economic
+    Research Forum, 2016.
+
+-   Identifying the links between innovation and FDI flows in Turkey
+    (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum
+    Working Paper No. 2015-1
+
+##  Work in Progress
+
+-   Intergenerational Education Mobility between and within Vulnerable
+    Groups in Turkey (with A. Filiztekin).
+
+-   The geography of AKP votes (with A. Filiztekin).
+
+-   A numerical solution to the second-best optimal taxation.
+
+-   The impact of a minimum wage increase on employment and school
+    enrollment: evidence from Turkey (with M. Hisarciklilar and A.
+    Filiztekin).

@@ -1,0 +1,20 @@
+name: "Ozan Bakis"
+output_dir: "."
+navbar:
+  title: "Ozan Bakis"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Professional Activities"
+      href: professional.html
+    - text: "Software"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/obakis
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
