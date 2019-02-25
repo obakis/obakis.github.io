@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>research.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,9 +20,10 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +32,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -90,8 +93,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -107,7 +116,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -127,6 +135,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -148,18 +193,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -214,8 +318,8 @@ $(document).ready(function () {
 <div id="refereed-publications" class="section level2">
 <h2>Refereed Publications</h2>
 <ul>
-<li><p>Unbundling curbside parking costs from housing prices (with E. Inci ve R.O. Senturk), <em>Journal of Economic Geography</em>, forthcoming, (SSCI).</p></li>
-<li><p>Determinants of academic achievement of middle schoolers in Turkey (with B. Borkan), <em>Educational Sciences: Theory &amp; Practice</em>, 16(6), 2193-2217, 2016. <a href="pdfs/art_academic_achievment_estp_2016.pdf">Download paper</a> [SSCI].</p></li>
+<li><p>Unbundling curbside parking costs from housing prices (with E. Inci ve R.O. Senturk), <em>Journal of Economic Geography</em>, 19(1), 89-119,2019. <a href="https://doi.org/10.1093/jeg/lby003">Download paper from publisher’s website</a> [SSCI, EconLit].</p></li>
+<li><p>Determinants of academic achievement of middle schoolers in Turkey (with B. Borkan), <em>Educational Sciences: Theory &amp; Practice</em>, 16(6), 2193-2217, 2016. <a href="pdfs/art_academic_achievment_estp_2016.pdf">Download paper</a> [SSCI, ERIC].</p></li>
 <li><p>Recent trends in the Turkish labor market, <em>İktisat İşletme ve Finans</em>, 30(351), 73-110, 2015. <a href="pdfs/art_recent_trends_TLM_iif_2015.pdf">Download paper</a> [EconLit].</p></li>
 <li><p>Structural change and industrial policy in Turkey (with I. Atiyas), <em>Emerging Markets Finance and Trade</em>, 51(6), 1209–1229, 2015. <a href="pdfs/art_str_ch-indust_pol_emft_2015.pdf">Download paper</a> [SSCI, EconLit].</p></li>
 <li><p>Transitional dynamics and the optimal progressivity of income redistribution (with B. Kaymak and M. Poschke), <em>Review of Economic Dynamics</em>, 18(3), 679-693, 2015. <a href="pdfs/art_tax_RED_2015.pdf">Download paper</a> [SSCI, EconLit].</p></li>
@@ -240,17 +344,17 @@ $(document).ready(function () {
 <div id="other-publications" class="section level2">
 <h2>Other Publications</h2>
 <ul>
-<li><p>Depositor myopia and banking sector behaviour (with F. Karanfil and S. Polat), chapter in <em>Financial Development, Economic Crises and Emerging Market Economies</em> ed. by Ulgen, F., Routledge: London, 156-169, 2016.</p></li>
-<li><p>Interactions between economic growth, innovation, financial development and sustainability in emerging countries (with F. Karanfil and S. Polat), chapter in <em>Developing Economies: Innovation, Investment and Sustainability</em> ed. by Carcillo, J.M., Nova Publishers: New York, 223-234, 2012.</p></li>
-<li><p>Social returns to education in Turkey: a quantile regression approach (with S. Polat, N.Davutyan and H.Levent), chapter in <em>Secondary Education in the 21st Century</em> ed. by Beckett, D.S., Nova Publishers: New York, 101-119, 2010.</p></li>
+<li><p>Depositor myopia and banking sector behaviour (with F. Karanfil and S. Polat), chapter in <em>Financial Development, Economic Crises and Emerging Market Economies</em> ed. by Ulgen, F., Routledge: London, 156-169, 2016.</p></li>
+<li><p>Interactions between economic growth, innovation, financial development and sustainability in emerging countries (with F. Karanfil and S. Polat), chapter in <em>Developing Economies: Innovation, Investment and Sustainability</em> ed. by Carcillo, J.M., Nova Publishers: New York, 223-234, 2012.</p></li>
+<li><p>Social returns to education in Turkey: a quantile regression approach (with S. Polat, N.Davutyan and H.Levent), chapter in <em>Secondary Education in the 21st Century</em> ed. by Beckett, D.S., Nova Publishers: New York, 101-119, 2010.</p></li>
 </ul>
 </div>
 <div id="other-publications-in-turkish" class="section level2">
 <h2>Other Publications (in Turkish)</h2>
 <ul>
-<li><p>Sıçrama Yapan Şirketler (In English: Leaping companies) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018. <a href="pdfs/rep_sicrama_yapan_sirketler_2018.pdf">Download report</a></p></li>
-<li><p>İmalat sanayi sektörleri rekabet göstergeleri raporu (In English: Report on manufacturing industries competitiveness indices) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014. <a href="pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf">Download report</a></p></li>
-<li>Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In English: Constraints to growth in Turkey: a study of prioritization) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
+<li><p>Sıçrama Yapan Şirketler (In English: Leaping companies) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018. <a href="pdfs/rep_sicrama_yapan_sirketler_2018.pdf">Download report</a></p></li>
+<li><p>İmalat sanayi sektörleri rekabet göstergeleri raporu (In English: Report on manufacturing industries competitiveness indices) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014. <a href="pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf">Download report</a></p></li>
+<li>Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In English: Constraints to growth in Turkey: a study of prioritization) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
 <ol start="2011" style="list-style-type: decimal">
 <li><a href="pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf">Download report</a></li>
 </ol></li>
@@ -259,9 +363,9 @@ $(document).ready(function () {
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
 <ul>
-<li><p>Firm dynamics and job creation in Turkey - some preliminary results (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2017-1</p></li>
+<li><p>Firm dynamics and job creation in Turkey - some preliminary results (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2017-1</p></li>
 <li><p>Anatolian tigers and the emergence of the devout bourgeoisie in the turkish manufacturing industry: an empirical analysis (with I. Atiyas and E. Ceviker Gurakar) Working Paper No 1064, Economic Research Forum, 2016.</p></li>
-<li><p>Identifying the links between innovation and FDI flows in Turkey (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2015-1</p></li>
+<li><p>Identifying the links between innovation and FDI flows in Turkey (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2015-1</p></li>
 </ul>
 </div>
 <div id="work-in-progress" class="section level2">
