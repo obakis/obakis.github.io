@@ -94,6 +94,10 @@
 
 ##  Other Publications (in Turkish)
 
+-   Tanzim Satış Enflasyonu Düşürdü (In English: "tanzim satis" reduced the inflation rate) (with U.
+    Acar). İktisat ve Toplum Dergisi, 102, 31-37, 2019.
+    [Download paper](pdfs/art_tanzim_itd2019.pdf)
+ 
 -   Sıçrama Yapan Şirketler (In English: Leaping companies) (with I.
     Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018.
     [Download report](pdfs/rep_sicrama_yapan_sirketler_2018.pdf)
@@ -110,9 +114,12 @@
 
 ##  Working Papers
 
+-   Blessing or Burden? The Impact of Refugees on Businesses and the Informal Economy
+    (with O. Altindag and S. Rozo) Available at SSRN: http://dx.doi.org/10.2139/ssrn.3188406, 2019.
+    
 -   Firm dynamics and job creation in Turkey - some preliminary results
     (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
-    Competitiveness Forum Working Paper No. 2017-1
+    Competitiveness Forum Working Paper No. 2017-1, 2017.
 
 -   Anatolian tigers and the emergence of the devout bourgeoisie in the
     turkish manufacturing industry: an empirical analysis (with I.
