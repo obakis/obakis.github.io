@@ -5,15 +5,20 @@
 
 ## Refereed Publications
 
+-   Blessing or Burden? The Impact of Refugees on Businesses and the Informal Economy
+    (with O. Altindag and S. Rozo), *Journal of Development Economics* (accepted for publication)     [SSCI]. 
+    The working paper version is available at SSRN: http://dx.doi.org/10.2139/ssrn.3188406
+    
+
 -   Unbundling curbside parking costs from housing prices (with E. Inci
     ve R.O. Senturk), *Journal of Economic Geography*, 19(1), 89-119,2019. 
     [Download paper from publisher's website](https://doi.org/10.1093/jeg/lby003)
-    [SSCI, EconLit].
+    [SSCI].
 
 -   Determinants of academic achievement of middle schoolers in Turkey
     (with B. Borkan), *Educational Sciences: Theory & Practice*, 16(6),
     2193-2217, 2016. [Download paper](pdfs/art_academic_achievment_estp_2016.pdf)
-    [SSCI, ERIC].
+    [SSCI].
 
 
 -   Recent trends in the Turkish labor market, *İktisat İşletme ve
@@ -23,21 +28,21 @@
 -   Structural change and industrial policy in Turkey (with I. Atiyas),
     *Emerging Markets Finance and Trade*, 51(6), 1209–1229, 2015.
     [Download paper](pdfs/art_str_ch-indust_pol_emft_2015.pdf)
-    [SSCI, EconLit].
+    [SSCI].
 
 -   Transitional dynamics and the optimal progressivity of income
     redistribution (with B. Kaymak and M. Poschke), *Review of Economic
     Dynamics*, 18(3), 679-693, 2015. [Download paper](pdfs/art_tax_RED_2015.pdf) 
-    [SSCI, EconLit].
+    [SSCI].
 
 -   Wage Inequality in Turkey: 2002-10, (with S. Polat), *Economics of
     Transition*, 23(1), 169-212, 2015. [Download paper](pdfs/art_wage_ineq_ecot_2015.pdf)
-    [SSCI, EconLit].
+    [SSCI].
 
 -   Aggregate and sectoral TFP growth in Turkey: a growth accounting
     exercise (with I. Atiyas), *İktisat İşletme ve Finans*, 29(341),
     9-36, 2014. [Download paper](pdfs/art_tfp_iif_2014.pdf) 
-    [SSCI, EconLit].
+    [SSCI].
 
 -   Quantile estimates for social returns to education in Turkey:
     2006-2009 (with N. Davutyan, H. Levent and S. Polat), *Middle East
@@ -47,9 +52,14 @@
 -   Sectoral human capital spillovers: evidence from Turkey (with N.
     Davutyan, H. Levent and S. Polat), *İktisat İşletme ve Finans*,
     26(298), 9-20, 2011. [Download paper](pdfs/art_spillover_iif_2011.pdf)
-    [SSCI, EconLit].
+    [SSCI].
 
 ##  Refereed Publications (in Turkish)
+
+-   Zincirlenmiş Hacim Serileri ile GSYH’de Ne Değişti? (In English:
+    What Changed with GDP in Chained Volume Measures?), *Ekonomi TEK,*  7(2) 1-36, 2018. 
+    [Download paper](pdfs/art_yeni_seriler_ekonTEK2018.pdf)
+
 
 -   Türkiye'de Çalışılan Saatlerin Dağılımı ve Değişimi (In English:
     Distribution of Hours Worked in Turkey and Its Evolution) (with
@@ -60,21 +70,20 @@
     English: The Differences and the Problems of the New GDP Series),
     *İktisat Araştırmaları Dergisi,* 2(1), 15-42, 2018. 
     [Download paper](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
-    (EconLit).
+    [EconLit].
 
 -   Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması (In
     English: Intergenerational Educational Mobility: An EU-Turkey
-    Comparison), *Finans Politik & Ekonomik Yorumlar,* 54(634), 97-105,
-    2017. [Download paper](pdfs/art_educ_mobility_fpey_2017.pdf)
-    (EconLit, Ulakbim SBVT).
+    Comparison), *Finans Politik & Ekonomik Yorumlar,* 54(634), 97-105, 2017. [Download paper](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit, Ulakbim SBVT].
 
 -   Türkiye'de eğitimin bireysel getirisi: 1988-2008 (In English:
-    Private returns to education in Turkey: 1988-2008), *Finans Politik
-    & Ekonomik Yorumlar,* 52(601), 69-75, 2015. 
-    [Download paper](pdfs/art_r2e_fpey_2015.pdf)
-    (EconLit, Ulakbim SBVT).
+    Private returns to education in Turkey: 1988-2008), *Finans Politik & Ekonomik Yorumlar,* 52(601), 69-75, 2015. [Download paper](pdfs/art_r2e_fpey_2015.pdf) [EconLit, Ulakbim SBVT].
 
 ##  Other Publications
+
+-   Anatolian Tigers and the Emergence of the Devout Bourgeoisie in the Turkish Manufacturing Industry
+    (with Izak Atiyas and Esra Gurakar), chapter in *Crony Capitalism in the Middle East: Business and Politics from Liberalization to the Arab Spring*, 
+    ed. by Diwan, I., A. Malik, A. and I. Atiyas, Oxford University Press: Oxford, 90-118, 2019.
 
 -   Depositor myopia and banking sector behaviour (with F. Karanfil
     and S. Polat), chapter in *Financial Development, Economic Crises
@@ -114,17 +123,9 @@
 
 ##  Working Papers
 
--   Blessing or Burden? The Impact of Refugees on Businesses and the Informal Economy
-    (with O. Altindag and S. Rozo) Available at SSRN: http://dx.doi.org/10.2139/ssrn.3188406, 2019.
-    
 -   Firm dynamics and job creation in Turkey - some preliminary results
     (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
     Competitiveness Forum Working Paper No. 2017-1, 2017.
-
--   Anatolian tigers and the emergence of the devout bourgeoisie in the
-    turkish manufacturing industry: an empirical analysis (with I.
-    Atiyas and E. Ceviker Gurakar) Working Paper No 1064, Economic
-    Research Forum, 2016.
 
 -   Identifying the links between innovation and FDI flows in Turkey
     (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum

@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>teaching.utf8.md</title>
+<title></title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -323,10 +311,7 @@ $(document).ready(function () {
 <div id="r-tutorials" class="section level2">
 <h2>R tutorials</h2>
 <p>Here are some online R tutorials [ <strong>Under development</strong> ]</p>
-</div>
-<div id="r-slides" class="section level2">
-<h2>R slides</h2>
-<p>Here are some slides I used for R presentations.</p>
+<p>Here are some PDF slides I used for R presentations.</p>
 <ul>
 <li><a href="R_slides/R_intro.pdf">Introduction to R</a></li>
 <li><a href="R_slides/R_ols.pdf">Multiple regression with R</a></li>
@@ -348,8 +333,8 @@ $(document).ready(function () {
 <div id="undergraduate-classes" class="section level2">
 <h2>Undergraduate classes</h2>
 <ul>
-<li>Econometrics I, Bahcesehir University, 2016,2018.</li>
-<li>Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017,2019.</li>
+<li>Econometrics I, Bahcesehir University, 2017-20.</li>
+<li>Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017-20.</li>
 <li>Public Finance, Sabanci University, 2016; Bahcesehir University, 2017-18.</li>
 <li>Macroeconomics, Galatasaray University, 2009-10.</li>
 <li>Programming in Economics, Galatasaray University, 2009-10.</li>
@@ -374,6 +359,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
