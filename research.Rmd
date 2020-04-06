@@ -142,6 +142,3 @@
 
 -   A numerical solution to the second-best optimal taxation.
 
--   The impact of a minimum wage increase on employment and school
-    enrollment: evidence from Turkey (with M. Hisarciklilar and A.
-    Filiztekin).
