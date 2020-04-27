@@ -74,10 +74,10 @@
 
 -   Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması (In
     English: Intergenerational Educational Mobility: An EU-Turkey
-    Comparison), *Finans Politik & Ekonomik Yorumlar,* 54(634), 97-105, 2017. [Download paper](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit, Ulakbim SBVT].
+    Comparison), *Finans Politik & Ekonomik Yorumlar,* 54(634), 97-105, 2017. [Download paper](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit].
 
 -   Türkiye'de eğitimin bireysel getirisi: 1988-2008 (In English:
-    Private returns to education in Turkey: 1988-2008), *Finans Politik & Ekonomik Yorumlar,* 52(601), 69-75, 2015. [Download paper](pdfs/art_r2e_fpey_2015.pdf) [EconLit, Ulakbim SBVT].
+    Private returns to education in Turkey: 1988-2008), *Finans Politik & Ekonomik Yorumlar,* 52(601), 69-75, 2015. [Download paper](pdfs/art_r2e_fpey_2015.pdf) [EconLit].
 
 ##  Other Publications
 
@@ -120,6 +120,11 @@
     English: Constraints to growth in Turkey: a study of prioritization)
     (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
     2011. [Download report](pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf)
+
+-   Kamu harcamaları ve büyüme: zaman serileri analizi (In
+    English: Public expenditures and growth: a time series analysis)
+    (with T. Jobert and R. Tuncer). Betam Research Report Series No. 1, 2008. 
+    [Download chapter in report](pdfs/ch_kamu_harcamalari_2008.pdf)
 
 ##  Working Papers
 
