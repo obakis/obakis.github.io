@@ -11,26 +11,40 @@
 
 
 
-<title></title>
+<title>research.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -299,7 +273,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -311,64 +285,184 @@ $(document).ready(function () {
 <div id="refereed-publications" class="section level2">
 <h2>Refereed Publications</h2>
 <ul>
-<li><p>Blessing or Burden? The Impact of Refugees on Businesses and the Informal Economy (with O. Altindag and S. Rozo), <em>Journal of Development Economics</em>, 146, 2020. <a href="https://doi.org/10.1016/j.jdeveco.2020.102490">Download paper from publisher’s website</a> [SSCI]. The working paper version is available at SSRN: <a href="http://dx.doi.org/10.2139/ssrn.3188406" class="uri">http://dx.doi.org/10.2139/ssrn.3188406</a></p></li>
-<li><p>Unbundling curbside parking costs from housing prices (with E. Inci ve R.O. Senturk), <em>Journal of Economic Geography</em>, 19(1), 89-119,2019. <a href="https://doi.org/10.1093/jeg/lby003">Download paper from publisher’s website</a> [SSCI].</p></li>
-<li><p>Determinants of academic achievement of middle schoolers in Turkey (with B. Borkan), <em>Educational Sciences: Theory &amp; Practice</em>, 16(6), 2193-2217, 2016. <a href="pdfs/art_academic_achievment_estp_2016.pdf">Download paper</a> [SSCI].</p></li>
-<li><p>Recent trends in the Turkish labor market, <em>İktisat İşletme ve Finans</em>, 30(351), 73-110, 2015. <a href="pdfs/art_recent_trends_TLM_iif_2015.pdf">Download paper</a> [EconLit].</p></li>
-<li><p>Structural change and industrial policy in Turkey (with I. Atiyas), <em>Emerging Markets Finance and Trade</em>, 51(6), 1209–1229, 2015. <a href="pdfs/art_str_ch-indust_pol_emft_2015.pdf">Download paper</a> [SSCI].</p></li>
-<li><p>Transitional dynamics and the optimal progressivity of income redistribution (with B. Kaymak and M. Poschke), <em>Review of Economic Dynamics</em>, 18(3), 679-693, 2015. <a href="pdfs/art_tax_RED_2015.pdf">Download paper</a> [SSCI].</p></li>
-<li><p>Wage Inequality in Turkey: 2002-10, (with S. Polat), <em>Economics of Transition</em>, 23(1), 169-212, 2015. <a href="pdfs/art_wage_ineq_ecot_2015.pdf">Download paper</a> [SSCI].</p></li>
-<li><p>Aggregate and sectoral TFP growth in Turkey: a growth accounting exercise (with I. Atiyas), <em>İktisat İşletme ve Finans</em>, 29(341), 9-36, 2014. <a href="pdfs/art_tfp_iif_2014.pdf">Download paper</a> [SSCI].</p></li>
-<li><p>Quantile estimates for social returns to education in Turkey: 2006-2009 (with N. Davutyan, H. Levent and S. Polat), <em>Middle East Development Journal</em>, 5(3), 1350017-1-1350017-23, 2013. <a href="pdfs/art_quintile_medj_2013.pdf">Download paper</a> [EconLit].</p></li>
-<li><p>Sectoral human capital spillovers: evidence from Turkey (with N. Davutyan, H. Levent and S. Polat), <em>İktisat İşletme ve Finans</em>, 26(298), 9-20, 2011. <a href="pdfs/art_spillover_iif_2011.pdf">Download paper</a> [SSCI].</p></li>
+<li><p>Blessing or Burden? The Impact of Refugees on Businesses and the
+Informal Economy (with O. Altindag and S. Rozo), <em>Journal of
+Development Economics</em>, 146, 2020. <a
+href="https://doi.org/10.1016/j.jdeveco.2020.102490">Download paper from
+publisher’s website</a> [SSCI]. The working paper version is available
+at SSRN: <a href="http://dx.doi.org/10.2139/ssrn.3188406"
+class="uri">http://dx.doi.org/10.2139/ssrn.3188406</a></p></li>
+<li><p>Unbundling curbside parking costs from housing prices (with E.
+Inci ve R.O. Senturk), <em>Journal of Economic Geography</em>, 19(1),
+89-119,2019. <a href="https://doi.org/10.1093/jeg/lby003">Download paper
+from publisher’s website</a> [SSCI].</p></li>
+<li><p>Determinants of academic achievement of middle schoolers in
+Turkey (with B. Borkan), <em>Educational Sciences: Theory &amp;
+Practice</em>, 16(6), 2193-2217, 2016. <a
+href="pdfs/art_academic_achievment_estp_2016.pdf">Download paper</a>
+[SSCI].</p></li>
+<li><p>Recent trends in the Turkish labor market, <em>İktisat İşletme ve
+Finans</em>, 30(351), 73-110, 2015. <a
+href="pdfs/art_recent_trends_TLM_iif_2015.pdf">Download paper</a>
+[EconLit].</p></li>
+<li><p>Structural change and industrial policy in Turkey (with I.
+Atiyas), <em>Emerging Markets Finance and Trade</em>, 51(6), 1209–1229,
+2015. <a href="pdfs/art_str_ch-indust_pol_emft_2015.pdf">Download
+paper</a> [SSCI].</p></li>
+<li><p>Transitional dynamics and the optimal progressivity of income
+redistribution (with B. Kaymak and M. Poschke), <em>Review of Economic
+Dynamics</em>, 18(3), 679-693, 2015. <a
+href="pdfs/art_tax_RED_2015.pdf">Download paper</a> [SSCI].</p></li>
+<li><p>Wage Inequality in Turkey: 2002-10, (with S. Polat),
+<em>Economics of Transition</em>, 23(1), 169-212, 2015. <a
+href="pdfs/art_wage_ineq_ecot_2015.pdf">Download paper</a>
+[SSCI].</p></li>
+<li><p>Aggregate and sectoral TFP growth in Turkey: a growth accounting
+exercise (with I. Atiyas), <em>İktisat İşletme ve Finans</em>, 29(341),
+9-36, 2014. <a href="pdfs/art_tfp_iif_2014.pdf">Download paper</a>
+[SSCI].</p></li>
+<li><p>Quantile estimates for social returns to education in Turkey:
+2006-2009 (with N. Davutyan, H. Levent and S. Polat), <em>Middle East
+Development Journal</em>, 5(3), 1350017-1-1350017-23, 2013. <a
+href="pdfs/art_quintile_medj_2013.pdf">Download paper</a>
+[EconLit].</p></li>
+<li><p>Sectoral human capital spillovers: evidence from Turkey (with N.
+Davutyan, H. Levent and S. Polat), <em>İktisat İşletme ve Finans</em>,
+26(298), 9-20, 2011. <a href="pdfs/art_spillover_iif_2011.pdf">Download
+paper</a> [SSCI].</p></li>
 </ul>
 </div>
 <div id="refereed-publications-in-turkish" class="section level2">
 <h2>Refereed Publications (in Turkish)</h2>
 <ul>
-<li><p>Zincirlenmiş Hacim Serileri ile GSYH’de Ne Değişti? (In English: What Changed with GDP in Chained Volume Measures?), <em>Ekonomi TEK,</em> 7(2) 1-36, 2018. <a href="pdfs/art_yeni_seriler_ekonTEK2018.pdf">Download paper</a></p></li>
-<li><p>Türkiye’de Çalışılan Saatlerin Dağılımı ve Değişimi (In English: Distribution of Hours Worked in Turkey and Its Evolution) (with Sezgin Polat, Mustafa Ulus), <em>Efil Ekonomi Araştırmaları Dergisi,</em> 1(4) 108-127, 2018. <a href="pdfs/art_saatler_efil_2018.pdf">Download paper</a></p></li>
-<li><p>Yeni GSYH Serilerinin Getirdiği Farklılıklar ve Sorunlar (In English: The Differences and the Problems of the New GDP Series), <em>İktisat Araştırmaları Dergisi,</em> 2(1), 15-42, 2018. <a href="pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf">Download paper</a> [EconLit].</p></li>
-<li><p>Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması (In English: Intergenerational Educational Mobility: An EU-Turkey Comparison), <em>Finans Politik &amp; Ekonomik Yorumlar,</em> 54(634), 97-105, 2017. <a href="pdfs/art_educ_mobility_fpey_2017.pdf">Download paper</a> [EconLit].</p></li>
-<li><p>Türkiye’de eğitimin bireysel getirisi: 1988-2008 (In English: Private returns to education in Turkey: 1988-2008), <em>Finans Politik &amp; Ekonomik Yorumlar,</em> 52(601), 69-75, 2015. <a href="pdfs/art_r2e_fpey_2015.pdf">Download paper</a> [EconLit].</p></li>
+<li><p>Zincirlenmiş Hacim Serileri ile GSYH’de Ne Değişti? (In English:
+What Changed with GDP in Chained Volume Measures?), <em>Ekonomi
+TEK,</em> 7(2) 1-36, 2018. <a
+href="pdfs/art_yeni_seriler_ekonTEK2018.pdf">Download paper</a></p></li>
+<li><p>Türkiye’de Çalışılan Saatlerin Dağılımı ve Değişimi (In English:
+Distribution of Hours Worked in Turkey and Its Evolution) (with Sezgin
+Polat, Mustafa Ulus), <em>Efil Ekonomi Araştırmaları Dergisi,</em> 1(4)
+108-127, 2018. <a href="pdfs/art_saatler_efil_2018.pdf">Download
+paper</a></p></li>
+<li><p>Yeni GSYH Serilerinin Getirdiği Farklılıklar ve Sorunlar (In
+English: The Differences and the Problems of the New GDP Series),
+<em>İktisat Araştırmaları Dergisi,</em> 2(1), 15-42, 2018. <a
+href="pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf">Download
+paper</a> [EconLit].</p></li>
+<li><p>Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması
+(In English: Intergenerational Educational Mobility: An EU-Turkey
+Comparison), <em>Finans Politik &amp; Ekonomik Yorumlar,</em> 54(634),
+97-105, 2017. <a href="pdfs/art_educ_mobility_fpey_2017.pdf">Download
+paper</a> [EconLit].</p></li>
+<li><p>Türkiye’de eğitimin bireysel getirisi: 1988-2008 (In English:
+Private returns to education in Turkey: 1988-2008), <em>Finans Politik
+&amp; Ekonomik Yorumlar,</em> 52(601), 69-75, 2015. <a
+href="pdfs/art_r2e_fpey_2015.pdf">Download paper</a> [EconLit].</p></li>
 </ul>
 </div>
 <div id="other-publications" class="section level2">
 <h2>Other Publications</h2>
 <ul>
-<li><p>Anatolian Tigers and the Emergence of the Devout Bourgeoisie in the Turkish Manufacturing Industry (with Izak Atiyas and Esra Gurakar), chapter in <em>Crony Capitalism in the Middle East: Business and Politics from Liberalization to the Arab Spring</em>, ed. by Diwan, I., A. Malik, A. and I. Atiyas, Oxford University Press: Oxford, 90-118, 2019.</p></li>
-<li><p>Depositor myopia and banking sector behaviour (with F. Karanfil and S. Polat), chapter in <em>Financial Development, Economic Crises and Emerging Market Economies</em> ed. by Ulgen, F., Routledge: London, 156-169, 2016.</p></li>
-<li><p>Interactions between economic growth, innovation, financial development and sustainability in emerging countries (with F. Karanfil and S. Polat), chapter in <em>Developing Economies: Innovation, Investment and Sustainability</em> ed. by Carcillo, J.M., Nova Publishers: New York, 223-234, 2012.</p></li>
-<li><p>Social returns to education in Turkey: a quantile regression approach (with S. Polat, N.Davutyan and H.Levent), chapter in <em>Secondary Education in the 21st Century</em> ed. by Beckett, D.S., Nova Publishers: New York, 101-119, 2010.</p></li>
+<li><p>Anatolian Tigers and the Emergence of the Devout Bourgeoisie in
+the Turkish Manufacturing Industry (with Izak Atiyas and Esra Gurakar),
+chapter in <em>Crony Capitalism in the Middle East: Business and
+Politics from Liberalization to the Arab Spring</em>, ed. by Diwan, I.,
+A. Malik, A. and I. Atiyas, Oxford University Press: Oxford, 90-118,
+2019.</p></li>
+<li><p>Depositor myopia and banking sector behaviour (with F. Karanfil
+and S. Polat), chapter in <em>Financial Development, Economic Crises and
+Emerging Market Economies</em> ed. by Ulgen, F., Routledge: London,
+156-169, 2016.</p></li>
+<li><p>Interactions between economic growth, innovation, financial
+development and sustainability in emerging countries (with F. Karanfil
+and S. Polat), chapter in <em>Developing Economies: Innovation,
+Investment and Sustainability</em> ed. by Carcillo, J.M., Nova
+Publishers: New York, 223-234, 2012.</p></li>
+<li><p>Social returns to education in Turkey: a quantile regression
+approach (with S. Polat, N.Davutyan and H.Levent), chapter in
+<em>Secondary Education in the 21st Century</em> ed. by Beckett, D.S.,
+Nova Publishers: New York, 101-119, 2010.</p></li>
 </ul>
 </div>
 <div id="other-publications-in-turkish" class="section level2">
 <h2>Other Publications (in Turkish)</h2>
 <ul>
-<li><p>Tanzim Satış Enflasyonu Düşürdü (In English: “tanzim satis” reduced the inflation rate) (with U. Acar). İktisat ve Toplum Dergisi, 102, 31-37, 2019. <a href="pdfs/art_tanzim_itd2019.pdf">Download paper</a></p></li>
-<li><p>Sıçrama Yapan Şirketler (In English: Leaping companies) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018. <a href="pdfs/rep_sicrama_yapan_sirketler_2018.pdf">Download report</a></p></li>
-<li><p>İmalat sanayi sektörleri rekabet göstergeleri raporu (In English: Report on manufacturing industries competitiveness indices) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014. <a href="pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf">Download report</a></p></li>
-<li>Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In English: Constraints to growth in Turkey: a study of prioritization) (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
+<li><p>Tanzim Satış Enflasyonu Düşürdü (In English: “tanzim satis”
+reduced the inflation rate) (with U. Acar). İktisat ve Toplum Dergisi,
+102, 31-37, 2019. <a href="pdfs/art_tanzim_itd2019.pdf">Download
+paper</a></p></li>
+<li><p>Sıçrama Yapan Şirketler (In English: Leaping companies) (with I.
+Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018. <a
+href="pdfs/rep_sicrama_yapan_sirketler_2018.pdf">Download
+report</a></p></li>
+<li><p>İmalat sanayi sektörleri rekabet göstergeleri raporu (In English:
+Report on manufacturing industries competitiveness indices) (with I.
+Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014. <a
+href="pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf">Download
+report</a></p></li>
+<li><p>Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In
+English: Constraints to growth in Turkey: a study of prioritization)
+(with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,</p>
 <ol start="2011" style="list-style-type: decimal">
-<li><a href="pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf">Download report</a></li>
+<li><a href="pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf">Download
+report</a></li>
 </ol></li>
-<li><p>Kamu harcamaları ve büyüme: zaman serileri analizi (In English: Public expenditures and growth: a time series analysis) (with T. Jobert and R. Tuncer). Betam Research Report Series No. 1, 2008. <a href="pdfs/ch_kamu_harcamalari_2008.pdf">Download chapter in report</a></p></li>
+<li><p>Kamu harcamaları ve büyüme: zaman serileri analizi (In English:
+Public expenditures and growth: a time series analysis) (with T. Jobert
+and R. Tuncer). Betam Research Report Series No. 1, 2008. <a
+href="pdfs/ch_kamu_harcamalari_2008.pdf">Download chapter in
+report</a></p></li>
 </ul>
 </div>
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
 <ul>
-<li><p>Firm dynamics and job creation in Turkey - some preliminary results (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2017-1, 2017.</p></li>
-<li><p>Identifying the links between innovation and FDI flows in Turkey (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2015-1</p></li>
+<li><p>Firm dynamics and job creation in Turkey - some preliminary
+results (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
+Competitiveness Forum Working Paper No. 2017-1, 2017.</p></li>
+<li><p>Identifying the links between innovation and FDI flows in Turkey
+(with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum Working
+Paper No. 2015-1</p></li>
 </ul>
 </div>
 <div id="work-in-progress" class="section level2">
 <h2>Work in Progress</h2>
 <ul>
-<li><p>In Search of the Holy Grail: Impact of Foreign Direct Investment on Target Firms in Turkey (with I. Atiyas)</p></li>
-<li><p>Intergenerational Education Mobility between and within Vulnerable Groups in Turkey (with A. Filiztekin).</p></li>
+<li><p>In Search of the Holy Grail: Impact of Foreign Direct Investment
+on Target Firms in Turkey (with I. Atiyas)</p></li>
+<li><p>Intergenerational Education Mobility between and within
+Vulnerable Groups in Turkey (with A. Filiztekin).</p></li>
 <li><p>The geography of AKP votes (with A. Filiztekin).</p></li>
-<li><p>A numerical solution to the second-best optimal taxation.</p></li>
+<li><p>A numerical solution to the second-best optimal
+taxation.</p></li>
+</ul>
+</div>
+<div id="projects" class="section level2">
+<h2>Projects</h2>
+<ul>
+<li><p>[12.2018 - 07.2021] TUBITAK - The Support Program for Scientific
+and Technological Research Projects (1001): “Türkiye’de asgari
+ücretlerin işgücü piyasasına etkileri, 2005-2018” [In English: The
+effects of minimum wages on the labor market in Turkey, 2005-2018] (with
+İ. Tunalı, S. Polat and B.İ. Yanık)</p></li>
+<li><p>[09.2020 - 03.2021] World Energy Council - Turkey &amp; Istanbul
+Center for Regulation: “Decarbonizing Turkey’s energy provision 2050”
+(with D. E. Dalgıç-Tetikol, P. Deniz, M. Finger, İ. Gümüş, and E.
+Köksal)</p></li>
+<li><p>[09.2019 - 02.2021] PMI IMPACT: “Analysis of the Illegal Trade of
+Alcoholic Beverages, Cigarettes and Tobacco, Fuel and Mobile Phones in
+Turkey” (with S. Gürsel and G.U. Kolaşin)</p></li>
+<li><p>[09.2013 - 03.2015] TUBITAK - The Support Program for Scientific
+and Technological Research Projects (1001): “Türkiye’de firma
+verimliliği: evrimi, dağılımı ve faktör dağılımındaki etkinsizliklerin
+rolü” [In: English: Firm productivity in Turkey: its evolution,
+distribution and role in misallocation of factors] (with I.
+Atiyas)</p></li>
+<li><p>[04.2013 - 12.2013] Ministry of Education &amp; ERG &amp; UNICEF:
+“Temel Belirleyicileri Açısından İlköğretimde Okula Devam ve
+Devamsızlık” [In English: Key Determinants of School Attendance and
+Absenteeism in Primary Education] (with B. Börkan, H. Levent, O. Dereli
+and S. Pelek)</p></li>
 </ul>
 </div>
 
@@ -381,7 +475,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -399,7 +493,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
