@@ -25,6 +25,11 @@ Economist, Bahcesehir University and Betam
 My full CV is <a href="https://obakis.github.io/pdfs/cv_bakis.pdf" target="_blank">here</a>. 
 You can find further information on my research on my <a href="https://www.researchgate.net/profile/Ozan_Bakis" target="_blank">ResearchGate </a> and  <a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ&hl=en" target="_blank">Google Scholar</a>  pages.   
 
+
+<span id="badgeCont699"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont699&rid=AAE-4941-2019"></script></span>
+
+
+
 I received my PhD in Economics from University of Paris 1 Pantheon-Sorbonne in 2006.
 Before joining Betam as senior researcher in 2016 I worked, respectively, at Galatasaray University
 and Sabanci University. I did my postdoc at University of Montreal in 2011. My recent
@@ -33,7 +38,6 @@ productivity, labor market dynamics and short-run GDP growth forecasting. I cons
 the Turkish Statistical Institute, and some other private sector institutions in the past.
 
 I am an R enthusiast. I give R courses at various levels, from introduction to advanced classes. 
-
 
 ## Contact Info
 
