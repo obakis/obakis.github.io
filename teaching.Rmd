@@ -6,7 +6,7 @@
 
 ## R tutorials
 
-Here are some online R tutorials [ **Under development** ]
+Here are some  R tutorials that may be useful [ **Under development** ]
 
 
 
