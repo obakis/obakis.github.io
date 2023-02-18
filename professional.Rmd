@@ -3,43 +3,81 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## Invited Lectures and Talks
+
+- Kalkınma Bakanlığı, "Kısa dönemli ekonomik büyüme tahmini - R ile Nowcasting" [In English: Ministry of Development, "Short-term economic growth forecasting - Nowcasting with R"], 12-21 April 2017.
+
+- VakıfBank, "R istatistiksel programlama diline giriş" [In English: VakıfBank, "Introduction to R statistical programming language"], 28-29 January 2016.
+	
+- Türkiye İstatistik Kurumu, "R ile paralel programalama ve büyük veri analizi" [In English: Turkish Statistical Institute, "Parallel programming and big data analysis with R"], 16-20 January 2016.
+		
+- Türkiye İş Bankası, "R istatistiksel programlama dili" [In English: Türkiye İş Bankası, "R statistical programming language"], 13-15 August 2014.
+
+
+
+## Grants and Awards
+
+- [12.2018 - 07.2021] TUBITAK - The Support Program for Scientific and Technological Research Projects (1001): "Türkiye'de asgari ücretlerin işgücü piyasasına etkileri, 2005-2018" [In English: The effects of minimum wages on the labor market in Turkey, 2005-2018] (with İ. Tunalı, S. Polat and B.İ. Yanık)
+  
+- [09.2020 - 03.2021] World Energy Council - Turkey & Istanbul Center for Regulation:  "Decarbonizing Turkey’s energy provision 2050" (with D. E. Dalgıç-Tetikol, P. Deniz, M. Finger, İ. Gümüş, and E. Köksal)
+
+  
+- [09.2019 - 02.2021] PMI IMPACT: "Analysis of the Illegal Trade of Alcoholic Beverages, Cigarettes and Tobacco, Fuel and Mobile Phones in Turkey" (with S. Gürsel and G.U. Kolaşin)
+
+  
+- [09.2013 - 03.2015] TUBITAK - The Support Program for Scientific and Technological Research Projects (1001): "Türkiye'de firma verimliliği: evrimi, dağılımı ve faktör dağılımındaki etkinsizliklerin rolü" [In: English: Firm productivity in Turkey: its evolution, distribution and role in misallocation of factors] (with I. Atiyas)
+
+- [04.2013 - 12.2013] Ministry of Education & ERG & UNICEF: "Temel Belirleyicileri Açısından İlköğretimde Okula Devam ve Devamsızlık" [In English: Key Determinants of School Attendance and Absenteeism in Primary Education] (with B. Börkan, H. Levent, O. Dereli and S. Pelek)
+
+- [09.2010 - 02.2011] TÜBİTAK - Postdoctoral Research Grant (2219).
+- [09.2005 - 06.2006] Agence Universitaire de la Francophonie (AUF) - Training Through Research Fellowship.
+- [10.2001 - 09.2002] EGIDE - Eiffel Graduate Scholarship.
+- [10.2000 - 01.2001] Robert Schuman Foundation - Undergraduate Scholarship.
 
 ## Professional Activities
 
 __Referee for:__ 
 
 - Journal of Public Economics 
+- Economics of Transition
 - Applied Economics 
 - Empirical Economics
 - Central Bank Review
 - İktisat İşletme ve Finans
+- Central Bank Review
+- TCMB Çalışma Tebliği Serisi
+
 
 __Postdoctoral research:__ Montreal University (2010, 8 months)
 
-__Seminars:__ 
 
-- Sabanci University - Economics Seminar, 04 December 2019, Sabanci University Tuzla Campus, Istanbul, Turkey.
-- Istanbul Technical University Department of Economics - Department Seminar,  21 November 2018, ITU Maçka Campus, Istanbul, Turkey.
-- Özyeğin University-World Bank Workshop on "Poverty, Inequality and Intergenerational Mobility", 31 March 2017, Özyeğin University Çekmeköy Campus, Istanbul, Turkey.
-- 34th Annual Meeting of the Middle East Economic Association (MEEA), 3-6 January 2014, Philadelphia, USA.
-- GDRI DREEM Conference on "Evaluation of Economic Policies and Institutional Changes in Mediterranean Countries", 12-13 september 2013, Florence, Italy. 
-- 12th International Conference of the Middle East Economic Association (MEEA) 18-20 March, 2013, Speyer, Germany.
-- 9th International Conference of the Middle East Economic Association (MEEA), 24-26 June 2010, Istanbul, Turkey.
-- GDRI DREEM Conference on "Inequalities and development in the Mediterranean countries", 21-23 May 2009, Istanbul, Turkey. 
-- 16th International Input-output Conference, 2-6 July 2007, Istanbul, Turkey.
-- 8th International Meeting of the Society for Social Choice and Welfare, 13-17 July 2006, Istanbul, Turkey.
-- Workshop of Femise Research Group FEM21-39 (FEMISE III), 23-26 June 2005, Rabat, Morocco.
-- METU Conference in Economics, 06-09 September 2003, Ankara, Turkey.
+__Conference and Workshop Presentations:__ 
 
+- 2022-2023: Galatasaray University - Friday Seminar;  Bogazici University - Economics Department Seminar,
+ 6th Annual Istanbul Meeting on Human Capital (BAU \& LSU \& GIAM)
 
+- 2020-2021: 
+ ERF 27th Annual Conference - Webinar Sessions;
+ Bahcesehir University - FEASS Research Seminar
 
-## Grants and Awards
+- 2019-2020: Sabanci University - Economics Seminar
 
-- 01.2019 - 12.2020: TÜBİTAK - The Support Program
-for Scientific andTechnological Research Projects (1001), with İnsan Tunalı, Sezgin Polat and Bengi İlhan Yanık.
-- 09.2013 - 03.2015: TÜBİTAK - The Support Program for Scientific and Technological Research Projects (1001), with Izak Atiyas.
-- 09.2010 - 02.2011 TÜBİTAK - Postdoctoral Research Grant (2219).
-- 09.2005 - 06.2006 Agence Universitaire de la Francophonie (AUF) - Training Through Research Fellowship.
-- 10.2001 - 09.2002 EGIDE - Eiffel Graduate Scholarship.
-- 10.2000 - 01.2001 Robert Schuman Foundation - Undergraduate Scholarship.
+- 2018-2019: Istanbul Technical University Department of Economics - Department Seminar;
+ 4th Annual Istanbul Meeting on Human Capital (BAU \& LSU \& GIAM)
+
+- 2016-2017: Özyeğin University-World Bank Workshop on “Poverty, Inequality and Intergenerational Mobility”
+
+- 2015-2016: 1st Annual Istanbul Meeting on Human Capital (Koc Uni \& LSU),
+
+- 2013-2014: 34th Annual Meeting of the MEEA; GDRI DREEM Conference on “Evaluation of Economic Policies and Institutional Changes in Mediterranean Countries”; 12th International Conference of the MEEA
+
+- 2009-2010: 9th International Conference of the MEEA; GDRI DREEM Conference on “Inequalities and development in the Mediterranean countries”
+
+- 2006-2007: 16th International Input-output Conference
+
+- 2005-2006: 8th International Meeting of the Society for Social Choice and Welfare
+
+- 2004-2005: Workshop of FEMISE Research Group FEM21-39 (FEMISE III), 23-26 June 2005, Rabat, Morocco.
+
+- 2003-2004: METU Conference in Economics
 

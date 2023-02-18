@@ -11,26 +11,40 @@
 
 
 
-<title></title>
+<title>professional.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -299,7 +273,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -308,42 +282,101 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<div id="professional-activities" class="section level2">
-<h2>Professional Activities</h2>
-<p><strong>Referee for:</strong></p>
+<div id="invited-lectures-and-talks" class="section level2">
+<h2>Invited Lectures and Talks</h2>
 <ul>
-<li>Journal of Public Economics</li>
-<li>Applied Economics</li>
-<li>Empirical Economics</li>
-<li>Central Bank Review</li>
-<li>İktisat İşletme ve Finans</li>
-</ul>
-<p><strong>Postdoctoral research:</strong> Montreal University (2010, 8 months)</p>
-<p><strong>Seminars:</strong></p>
-<ul>
-<li>Sabanci University - Economics Seminar, 04 December 2019, Sabanci University Tuzla Campus, Istanbul, Turkey.</li>
-<li>Istanbul Technical University Department of Economics - Department Seminar, 21 November 2018, ITU Maçka Campus, Istanbul, Turkey.</li>
-<li>Özyeğin University-World Bank Workshop on “Poverty, Inequality and Intergenerational Mobility”, 31 March 2017, Özyeğin University Çekmeköy Campus, Istanbul, Turkey.</li>
-<li>34th Annual Meeting of the Middle East Economic Association (MEEA), 3-6 January 2014, Philadelphia, USA.</li>
-<li>GDRI DREEM Conference on “Evaluation of Economic Policies and Institutional Changes in Mediterranean Countries”, 12-13 september 2013, Florence, Italy.</li>
-<li>12th International Conference of the Middle East Economic Association (MEEA) 18-20 March, 2013, Speyer, Germany.</li>
-<li>9th International Conference of the Middle East Economic Association (MEEA), 24-26 June 2010, Istanbul, Turkey.</li>
-<li>GDRI DREEM Conference on “Inequalities and development in the Mediterranean countries”, 21-23 May 2009, Istanbul, Turkey.</li>
-<li>16th International Input-output Conference, 2-6 July 2007, Istanbul, Turkey.</li>
-<li>8th International Meeting of the Society for Social Choice and Welfare, 13-17 July 2006, Istanbul, Turkey.</li>
-<li>Workshop of Femise Research Group FEM21-39 (FEMISE III), 23-26 June 2005, Rabat, Morocco.</li>
-<li>METU Conference in Economics, 06-09 September 2003, Ankara, Turkey.</li>
+<li><p>Kalkınma Bakanlığı, “Kısa dönemli ekonomik büyüme tahmini - R ile
+Nowcasting” [In English: Ministry of Development, “Short-term economic
+growth forecasting - Nowcasting with R”], 12-21 April 2017.</p></li>
+<li><p>VakıfBank, “R istatistiksel programlama diline giriş” [In
+English: VakıfBank, “Introduction to R statistical programming
+language”], 28-29 January 2016.</p></li>
+<li><p>Türkiye İstatistik Kurumu, “R ile paralel programalama ve büyük
+veri analizi” [In English: Turkish Statistical Institute, “Parallel
+programming and big data analysis with R”], 16-20 January 2016.</p></li>
+<li><p>Türkiye İş Bankası, “R istatistiksel programlama dili” [In
+English: Türkiye İş Bankası, “R statistical programming language”],
+13-15 August 2014.</p></li>
 </ul>
 </div>
 <div id="grants-and-awards" class="section level2">
 <h2>Grants and Awards</h2>
 <ul>
-<li>01.2019 - 12.2020: TÜBİTAK - The Support Program for Scientific andTechnological Research Projects (1001), with İnsan Tunalı, Sezgin Polat and Bengi İlhan Yanık.</li>
-<li>09.2013 - 03.2015: TÜBİTAK - The Support Program for Scientific and Technological Research Projects (1001), with Izak Atiyas.</li>
-<li>09.2010 - 02.2011 TÜBİTAK - Postdoctoral Research Grant (2219).</li>
-<li>09.2005 - 06.2006 Agence Universitaire de la Francophonie (AUF) - Training Through Research Fellowship.</li>
-<li>10.2001 - 09.2002 EGIDE - Eiffel Graduate Scholarship.</li>
-<li>10.2000 - 01.2001 Robert Schuman Foundation - Undergraduate Scholarship.</li>
+<li><p>[12.2018 - 07.2021] TUBITAK - The Support Program for Scientific
+and Technological Research Projects (1001): “Türkiye’de asgari
+ücretlerin işgücü piyasasına etkileri, 2005-2018” [In English: The
+effects of minimum wages on the labor market in Turkey, 2005-2018] (with
+İ. Tunalı, S. Polat and B.İ. Yanık)</p></li>
+<li><p>[09.2020 - 03.2021] World Energy Council - Turkey &amp; Istanbul
+Center for Regulation: “Decarbonizing Turkey’s energy provision 2050”
+(with D. E. Dalgıç-Tetikol, P. Deniz, M. Finger, İ. Gümüş, and E.
+Köksal)</p></li>
+<li><p>[09.2019 - 02.2021] PMI IMPACT: “Analysis of the Illegal Trade of
+Alcoholic Beverages, Cigarettes and Tobacco, Fuel and Mobile Phones in
+Turkey” (with S. Gürsel and G.U. Kolaşin)</p></li>
+<li><p>[09.2013 - 03.2015] TUBITAK - The Support Program for Scientific
+and Technological Research Projects (1001): “Türkiye’de firma
+verimliliği: evrimi, dağılımı ve faktör dağılımındaki etkinsizliklerin
+rolü” [In: English: Firm productivity in Turkey: its evolution,
+distribution and role in misallocation of factors] (with I.
+Atiyas)</p></li>
+<li><p>[04.2013 - 12.2013] Ministry of Education &amp; ERG &amp; UNICEF:
+“Temel Belirleyicileri Açısından İlköğretimde Okula Devam ve
+Devamsızlık” [In English: Key Determinants of School Attendance and
+Absenteeism in Primary Education] (with B. Börkan, H. Levent, O. Dereli
+and S. Pelek)</p></li>
+<li><p>[09.2010 - 02.2011] TÜBİTAK - Postdoctoral Research Grant
+(2219).</p></li>
+<li><p>[09.2005 - 06.2006] Agence Universitaire de la Francophonie (AUF)
+- Training Through Research Fellowship.</p></li>
+<li><p>[10.2001 - 09.2002] EGIDE - Eiffel Graduate Scholarship.</p></li>
+<li><p>[10.2000 - 01.2001] Robert Schuman Foundation - Undergraduate
+Scholarship.</p></li>
+</ul>
+</div>
+<div id="professional-activities" class="section level2">
+<h2>Professional Activities</h2>
+<p><strong>Referee for:</strong></p>
+<ul>
+<li>Journal of Public Economics</li>
+<li>Economics of Transition</li>
+<li>Applied Economics</li>
+<li>Empirical Economics</li>
+<li>Central Bank Review</li>
+<li>İktisat İşletme ve Finans</li>
+<li>Central Bank Review</li>
+<li>TCMB Çalışma Tebliği Serisi</li>
+</ul>
+<p><strong>Postdoctoral research:</strong> Montreal University (2010, 8
+months)</p>
+<p><strong>Conference and Workshop Presentations:</strong></p>
+<ul>
+<li><p>2022-2023: Galatasaray University - Friday Seminar; Bogazici
+University - Economics Department Seminar, 6th Annual Istanbul Meeting
+on Human Capital (BAU &amp; LSU &amp; GIAM)</p></li>
+<li><p>2020-2021: ERF 27th Annual Conference - Webinar Sessions;
+Bahcesehir University - FEASS Research Seminar</p></li>
+<li><p>2019-2020: Sabanci University - Economics Seminar</p></li>
+<li><p>2018-2019: Istanbul Technical University Department of Economics
+- Department Seminar; 4th Annual Istanbul Meeting on Human Capital (BAU
+&amp; LSU &amp; GIAM)</p></li>
+<li><p>2016-2017: Özyeğin University-World Bank Workshop on “Poverty,
+Inequality and Intergenerational Mobility”</p></li>
+<li><p>2015-2016: 1st Annual Istanbul Meeting on Human Capital (Koc Uni
+&amp; LSU),</p></li>
+<li><p>2013-2014: 34th Annual Meeting of the MEEA; GDRI DREEM Conference
+on “Evaluation of Economic Policies and Institutional Changes in
+Mediterranean Countries”; 12th International Conference of the
+MEEA</p></li>
+<li><p>2009-2010: 9th International Conference of the MEEA; GDRI DREEM
+Conference on “Inequalities and development in the Mediterranean
+countries”</p></li>
+<li><p>2006-2007: 16th International Input-output Conference</p></li>
+<li><p>2005-2006: 8th International Meeting of the Society for Social
+Choice and Welfare</p></li>
+<li><p>2004-2005: Workshop of FEMISE Research Group FEM21-39 (FEMISE
+III), 23-26 June 2005, Rabat, Morocco.</p></li>
+<li><p>2003-2004: METU Conference in Economics</p></li>
 </ul>
 </div>
 
@@ -356,7 +389,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -374,7 +407,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
