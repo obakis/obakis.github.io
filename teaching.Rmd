@@ -6,7 +6,7 @@
 
 Here are some PDF slides I used for R presentations.
 
-- [Introduction to R ](R_slides/R_intro.pdf)
+- [Introduction to R ](R_slides/R_intro1.pdf)
 - [Multiple regression with R ](R_slides/R_ols.pdf)
 - [Regression with pooled cross sections](R_slides/R_pooled.pdf)
 - [Regression with panel data](R_slides/R_panel.pdf)
