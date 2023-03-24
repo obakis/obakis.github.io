@@ -10,7 +10,7 @@ Here are some PDF slides I used for R presentations.
 - [Regression with pooled cross sections](R_tut/R_pooled.pdf)
 - [Regression with panel data](R_tut/R_panel.pdf)
 - [Seasonal adjustment and forecasting](R_tut/R_ts.pdf)
-- [Data reshaping with dplyr/tidyverse](R_tut/R_reshape.pdf)
+- [Data manipulation with dplyr/tidyverse](R_tut/R_reshape.pdf)
 - [R graphics](R_tut/R_graphs.pdf)
 
 
