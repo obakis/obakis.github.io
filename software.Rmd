@@ -1,7 +1,6 @@
 
 
 ## Codes for published and working papers
-## Codes for published and working papers
 
 Code for "Transitional Dynamics and the Optimal Progressivity of Income Redistribution" [Download paper from publisher's website](https://www.economicdynamics.org/codes/13/13-232/CodeforBKP.zip)
 

@@ -12,7 +12,6 @@ output:
 --> 
 
 ## About me
-## About me
 
 Economist, Bahcesehir University and Betam    
 

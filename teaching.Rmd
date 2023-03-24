@@ -1,7 +1,6 @@
 
 
 ## R tutorials
-## R tutorials
 
 
 Here are some PDF slides I used for R presentations.
