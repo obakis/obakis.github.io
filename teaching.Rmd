@@ -5,13 +5,13 @@
 
 Here are some PDF slides I used for R presentations.
 
-- [Introduction to R ](R_slides/R_intro1.pdf)
-- [Multiple regression with R ](R_slides/R_ols.pdf)
-- [Regression with pooled cross sections](R_slides/R_pooled.pdf)
-- [Regression with panel data](R_slides/R_panel.pdf)
-- [Seasonal adjustment and forecasting](R_slides/R_ts.pdf)
-- [Data reshaping with dplyr/tidyverse](R_slides/R_reshape.pdf)
-- [R graphics](R_slides/R_graphs.pdf)
+- [Introduction to R ](R_tut/R_intro.pdf)
+- [Multiple regression with R ](R_tut/R_ols.pdf)
+- [Regression with pooled cross sections](R_tut/R_pooled.pdf)
+- [Regression with panel data](R_tut/R_panel.pdf)
+- [Seasonal adjustment and forecasting](R_tut/R_ts.pdf)
+- [Data reshaping with dplyr/tidyverse](R_tut/R_reshape.pdf)
+- [R graphics](R_tut/R_graphs.pdf)
 
 
 Please see also the list of documents that are freely available on the R website:  
