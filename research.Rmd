@@ -1,8 +1,9 @@
 
 
 ## Refereed Publications
+## Refereed Publications
 
--   Blessing or Burden? The Impact of Refugees on Businesses and the Informal Economy
+-   Blessing or burden? The impact of refugees on businesses and the informal economy
     (with O. Altindag and S. Rozo), _Journal of Development Economics_, 146, 2020.
     [Download paper from publisher's website](https://doi.org/10.1016/j.jdeveco.2020.102490)
     [SSCI]. 
@@ -50,37 +51,41 @@
 
 ##  Refereed Publications (in Turkish)
 
--   Zincirlenmiş Hacim Serileri ile GSYH’de Ne Değişti? (In English:
-    What Changed with GDP in Chained Volume Measures?), _Ekonomi TEK_,  7(2) 1-36, 2018. 
+-   Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy] (with U. Acar). _İktisat Araştırmaları Dergisi_, 5(1), 1-27, 2021.
+    [Download paper from publisher's website](https://dergipark.org.tr/tr/download/article-file/1660737)
+    [EconLit].
+
+-   Zincirlenmiş hacim serileri ile GSYH’de ne değişti? (In English:
+    What changed with GDP in chained volume measures?), _Ekonomi TEK_,  7(2) 1-36, 2018. 
     [Download](pdfs/art_yeni_seriler_ekonTEK2018.pdf)
 
 
--   Türkiye'de Çalışılan Saatlerin Dağılımı ve Değişimi (In English:
-    Distribution of Hours Worked in Turkey and Its Evolution) (with
+-   Türkiye'de çalışılan saatlerin dağılımı ve değişimi (In English:
+    Distribution of hours worked in Turkey and its evolution) (with
     S. Polat, M. Ulus), _Efil Ekonomi Araştırmaları Dergisi_,  1(4) 108-127, 2018. 
     [Download](pdfs/art_saatler_efil_2018.pdf)
 
--   Yeni GSYH Serilerinin Getirdiği Farklılıklar ve Sorunlar (In
-    English: The Differences and the Problems of the New GDP Series),
+-   Yeni GSYH serilerinin getirdiği farklılıklar ve sorunlar (In
+    English: The Differences and the problems of the new GDP series),
     _İktisat Araştırmaları Dergisi_, 2(1), 15-42, 2018. 
     [Download](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
     [EconLit].
 
--   Kuşaklar Arası Eğitim Hareketliliği: AB-Türkiye Karşılaştırması (In
-    English: Intergenerational Educational Mobility: An EU-Turkey
-    Comparison), _Finans Politik & Ekonomik Yorumlar_, 54(634), 97-105, 2017. [Download](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit].
+-   Kuşaklar arası eğitim hareketliliği: AB-Türkiye karşılaştırması (In
+    English: Intergenerational educational mobility: An EU-Turkey
+    comparison), _Finans Politik & Ekonomik Yorumlar_, 54(634), 97-105, 2017. [Download](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit].
 
 -   Türkiye'de eğitimin bireysel getirisi: 1988-2008 (In English:
     Private returns to education in Turkey: 1988-2008), _Finans Politik & Ekonomik Yorumlar_, 52(601), 69-75, 2015. [Download](pdfs/art_r2e_fpey_2015.pdf) [EconLit].
 
 ##  Other Publications
 
--  Assessment of a Carbon Tax as a Tool to Decarbonize Turkey’s Energy Supply 2050 (with  D.E. Dalgic, P. Deniz, M. Finger, I. Gumus and E. Köksal). IC4R | İstanbul Center for Regulation, Report Series No.1, 2022. [Download](pdfs/rep_carbon-tax_2022.pdf)
+-  Assessment of a carbon tax as a tool to decarbonize Turkey’s energy supply 2050 (with  D.E. Dalgic, P. Deniz, M. Finger, I. Gumus and E. Köksal). IC4R | İstanbul Center for Regulation, Report Series No.1, 2022. [Download](pdfs/rep_carbon-tax_2022.pdf)
 
--  Productivity, Reallocation, and Structural Change: An Assessment (with Izak Atiyas), chapter in _Turkish Economy at the Crossroads: Facing the Challenges Ahead_, ed. by Akat, A.S, S. Gürsel, World Scientific Publishing: Singapore, 91-122, 2020 [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
+-  Productivity, reallocation, and structural change: An assessment (with I. Atiyas), chapter in _Turkish Economy at the Crossroads: Facing the Challenges Ahead_, ed. by Akat, A.S, S. Gürsel, World Scientific Publishing: Singapore, 91-122, 2020 [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
 
 
--   Anatolian Tigers and the Emergence of the Devout Bourgeoisie in the Turkish Manufacturing Industry
+-   Anatolian tigers and the emergence of the devout bourgeoisie in the turkish manufacturing industry
     (with I. Atiyas and E. GÜrakar), chapter in _Crony Capitalism in the Middle East: Business and Politics from Liberalization to the Arab Spring_, 
     ed. by Diwan, I., A. Malik, A. and I. Atiyas, Oxford University Press: Oxford, 90-118, 2019.
 [Download](pdfs/ch_tigers_2019.pdf)
@@ -107,18 +112,18 @@
 - 1980 sonrası Türkiye ekonomisinde yapısal dönüşüm [In English: Structural transformation in the Turkish economy after 1980] (with U. Acar), chapter in
 _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
 
-- Türkiye’de Dijital Eşitsizlik 2007-2021 Arasında Nasıl Şekillendi? [In English: How did digital inequality evolve in Turkey between 2007-2021?] (with E. Köksal), chapter in
+- Türkiye’de dijital eşitsizlik 2007-2021 arasında nasıl şekillendi? [In English: How did digital inequality evolve in Turkey between 2007-2021?] (with E. Köksal), chapter in
 _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
 
--   Türkiye'de Bilgi İletişim Harcamaları ve Dijitalleşme (In English: Information and Communications Technology Expenditure and Digitalization in Turkey) (with E.
+-   Türkiye'de bilgi iletişim harcamaları ve dijitalleşme (In English: Information and communications technology expenditure and digitalization in Turkey) (with E.
     Koksal). Betam Araştırma Raporu, 2022.
     [Download](pdfs/rep_TDTE_2022.pdf)
 
--   Tanzim Satış Enflasyonu Düşürdü (In English: "tanzim satis" reduced the inflation rate) (with U.
-    Acar). İktisat ve Toplum Dergisi, 102, 31-37, 2019.
+-   Tanzim satış enflasyonu düşürdü (In English: "tanzim satis" reduced the inflation rate) (with U.
+    Acar). _İktisat ve Toplum Dergisi_, 102, 31-37, 2019.
     [Download](pdfs/art_tanzim_itd2019.pdf)
  
--   Sıçrama Yapan Şirketler (In English: Leaping companies) (with I.
+-   Sıçrama yapan şirketler (In English: Leaping companies) (with I.
     Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018.
     [Download](pdfs/rep_sicrama_yapan_sirketler_2018.pdf)
 
@@ -141,6 +146,8 @@ _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisin
 
 -   Wage inequality dynamics in Turkey (with S. Polat), Working Papers 1509, Economic Research Forum,  2021.
 
+-   Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018 (with U. Acar) Betam Working Paper Series No. 19, 2020.
+
 -   Firm dynamics and job creation in Turkey - some preliminary results
     (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
     Competitiveness Forum Working Paper No. 2017-1, 2017.
@@ -153,10 +160,10 @@ _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisin
 
 ##  Work in Progress
 
-- In Search of the Holy Grail: Impact of Foreign Direct Investment on Target Firms in Turkey (with I. Atiyas and R. K. Erdemli)
+- In search of the Holy Grail: impact of foreign direct investment on target firms in Turkey (with I. Atiyas and R. K. Erdemli)
 
-- Intergenerational Education Mobility between and within Vulnerable
-    Groups in Turkey (with A. Filiztekin).
+- Intergenerational education mobility between and within vulnerable
+    groups in Turkey (with A. Filiztekin).
 
 - A numerical solution to the second-best optimal taxation.
 

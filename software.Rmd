@@ -1,8 +1,12 @@
 
 
-## Codes for published papers
+## Codes for published and working papers
+## Codes for published and working papers
 
-[ **Under development** ]
+Code for "Transitional Dynamics and the Optimal Progressivity of Income Redistribution" [Download paper from publisher's website](https://www.economicdynamics.org/codes/13/13-232/CodeforBKP.zip)
+
+Data for "Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018" [Download data from Betam's website](https://betam.bahcesehir.edu.tr/wp-content/uploads/2020/07/EK_Seriler.rar)
+
 
 
 ## R packages
