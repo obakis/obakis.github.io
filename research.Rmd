@@ -51,7 +51,7 @@
 ##  Refereed Publications (in Turkish)
 
 -   Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy] (with U. Acar). _İktisat Araştırmaları Dergisi_, 5(1), 1-27, 2021.
-    [Download paper from publisher's website](https://dergipark.org.tr/tr/download/article-file/1660737)
+    [Download](pdfs/art_tfp_jre_2021.pdf)
     [EconLit].
 
 -   Zincirlenmiş hacim serileri ile GSYH’de ne değişti? (In English:
