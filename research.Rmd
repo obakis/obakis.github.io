@@ -2,6 +2,8 @@
 
 ## Refereed Publications
 
+-   Wage inequality dynamics in Turkey (with S. Polat), _Empirica_, forthcoming.
+
 -   Blessing or burden? The impact of refugees on businesses and the informal economy
     (with O. Altindag and S. Rozo), _Journal of Development Economics_, 146, 2020.
     [Download paper from publisher's website](https://doi.org/10.1016/j.jdeveco.2020.102490)
@@ -81,7 +83,7 @@
 
 -  Assessment of a carbon tax as a tool to decarbonize Turkey’s energy supply 2050 (with  D.E. Dalgic, P. Deniz, M. Finger, I. Gumus and E. Köksal). IC4R | İstanbul Center for Regulation, Report Series No.1, 2022. [Download](pdfs/rep_carbon-tax_2022.pdf)
 
--  Productivity, reallocation, and structural change: An assessment (with I. Atiyas), chapter in _Turkish Economy at the Crossroads: Facing the Challenges Ahead_, ed. by Akat, A.S, S. Gürsel, World Scientific Publishing: Singapore, 91-122, 2020 [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
+-  Productivity, reallocation, and structural change: An assessment (with I. Atiyas), chapter in _Turkish Economy at the Crossroads: Facing the Challenges Ahead_, ed. by Akat, A.S, and S. Gürsel, World Scientific Publishing: Singapore, 91-122, 2020 [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
 
 
 -   Anatolian tigers and the emergence of the devout bourgeoisie in the turkish manufacturing industry
@@ -108,17 +110,20 @@
     
 ##  Other Publications (in Turkish)
 
-- 1980 sonrası Türkiye ekonomisinde yapısal dönüşüm [In English: Structural transformation in the Turkish economy after 1980] (with U. Acar), chapter in
+- 1980 sonrası Türkiye ekonomisinde yapısal dönüşüm [In English: Structural transformation in the post-1980 Turkish economy]] (with U. Acar), chapter in
 _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
 
 - Türkiye’de dijital eşitsizlik 2007-2021 arasında nasıl şekillendi? [In English: How did digital inequality evolve in Turkey between 2007-2021?] (with E. Köksal), chapter in
 _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
 
+- 1980 sonrası Türkiye ekonomisinde verimlilik, kaynak tahsisi ve yapısal değişim [In English: Productivity, resource allocation and structural change in the Post-1980 Turkish economy] (with I. Atiyas), chapter in
+_Çıkmaz Yol: Dünden Yarına Türkiye Ekonomisi_, ed. by Akat, A.S, and S. Gürsel, İstanbul Bilgi Üniversitesi Yayınları: İstanbul, 71-98, 2023. 
+
 -   Türkiye'de bilgi iletişim harcamaları ve dijitalleşme (In English: Information and communications technology expenditure and digitalization in Turkey) (with E.
     Koksal). Betam Araştırma Raporu, 2022.
     [Download](pdfs/rep_TDTE_2022.pdf)
 
--   Tanzim satış enflasyonu düşürdü (In English: "tanzim satis" reduced the inflation rate) (with U.
+-   Tanzim satış enflasyonu düşürdü (In English: Direct sale points reduced the inflation rate) (with U.
     Acar). _İktisat ve Toplum Dergisi_, 102, 31-37, 2019.
     [Download](pdfs/art_tanzim_itd2019.pdf)
  
@@ -143,7 +148,6 @@ _Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisin
 
 ##  Working Papers
 
--   Wage inequality dynamics in Turkey (with S. Polat), Working Papers 1509, Economic Research Forum,  2021.
 
 -   Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018 (with U. Acar) Betam Working Paper Series No. 19, 2020.
 
