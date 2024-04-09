@@ -151,17 +151,25 @@ _Çıkmaz Yol: Dünden Yarına Türkiye Ekonomisi_, ed. by Akat, A.S, and S. Gü
 
 ##  Working Papers
 
+-   Resource reallocation and total factor productivity in Turkiye: 2000-2022, Betam Working Paper Series No. 022, 2024. [Download](pdfs/wp_tfp_decomp_betam.pdf)
+
+- İstanbul işgücü piyasasında rezervasyon ücretleri, Betam Working Paper Series No. 023, 2024.
+[Download](pdfs/wp_RU_betam.pdf)
 
 -   Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018 (with U. Acar) Betam Working Paper Series No. 19, 2020.
+[Download](pdfs/wp_sectoral_tfp_betam.pdf)
+
 
 -   Firm dynamics and job creation in Turkey - some preliminary results
     (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
     Competitiveness Forum Working Paper No. 2017-1, 2017.
+[Download](pdfs/wp_firm_dyn-job_creation_in_turkey_ref.pdf)
 
 -   Identifying the links between innovation and FDI flows in Turkey
     (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum
     Working Paper No. 2015-1, 2015.
-    
+[Download](pdfs/wp_innovation_fdi_in_turkey_ref.pdf)
+
 
 
 ##  Work in Progress
