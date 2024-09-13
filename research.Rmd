@@ -54,7 +54,7 @@ The working paper version is available at the ERF website: https://erf.org.eg/ap
 
 ##  Refereed Publications (in Turkish)
 
--   İstanbul işgücü piyasasında rezervasyon ücretleri, _Ekonomi-tek_, 13(2), 140-159.
+-   İstanbul işgücü piyasasında rezervasyon ücretleri, 
 [In English: Reservation Wages in Istanbul Labour Market] (with S. Gürsel).  _Ekonomi-tek_, 13(2), 140-159, 2024. 
     [Download](pdfs/art_ist_rez_ucr_TEK2024.pdf)
     [TRDizin].
