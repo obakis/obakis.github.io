@@ -54,12 +54,17 @@ The working paper version is available at the ERF website: https://erf.org.eg/ap
 
 ##  Refereed Publications (in Turkish)
 
--   Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy] (with U. Acar). _İktisat Araştırmaları Dergisi_, 5(1), 1-27, 2021.
+-   İstanbul İşgücü Piyasasında Rezervasyon Ücretleri. Ekonomi-Tek, 13(2), 140-159.
+[In English: Reservation Wages in Istanbul Labour Market] (with S. Gürsel).  _Ekonomi-tek_, 13(2), 140-159, 2024. 
+    [Download](pdfs/art_ist_rez_ucr_TEK2024.pdf)
+    [TRDizin].
+
+-   Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy] (with U. Acar). _Journal of Research in Economics_, 5(1), 1-27, 2021.
     [Download](pdfs/art_tfp_jre_2021.pdf)
     [EconLit].
 
 -   Zincirlenmiş hacim serileri ile GSYH’de ne değişti? (In English:
-    What changed with GDP in chained volume measures?), _Ekonomi TEK_,  7(2) 1-36, 2018. 
+    What changed with GDP in chained volume measures?), _Ekonomi-tek_,  7(2) 1-36, 2018. 
     [Download](pdfs/art_yeni_seriler_ekonTEK2018.pdf)
 
 
@@ -70,7 +75,7 @@ The working paper version is available at the ERF website: https://erf.org.eg/ap
 
 -   Yeni GSYH serilerinin getirdiği farklılıklar ve sorunlar (In
     English: The Differences and the problems of the new GDP series),
-    _İktisat Araştırmaları Dergisi_, 2(1), 15-42, 2018. 
+    _Journal of Research in Economics_, 2(1), 15-42, 2018. 
     [Download](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
     [EconLit].
 
