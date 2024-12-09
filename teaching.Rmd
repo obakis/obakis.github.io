@@ -23,14 +23,15 @@ https://www.r-project.org/other-docs.html
 
 ## Graduate classes
 
-- Advanced Macroeconomics, Bahcesehir University, 2016, 2017.
+- Econometrics I, Bahcesehir University, 2022-2023.
+- Macroeconomic Theory, Bahcesehir University, 2017-2018.
 - Macroeconomics I, Galatasaray University, 2011-2014.
 - Macroeconomics II, Galatasaray University, 2010-2014.
 
 ## Undergraduate classes
 
-- Data Science with R, Bahcesehir University, 2022.
-- Machine Learning with R, Bahcesehir University, 2023.
+- Data Science with R, Bahcesehir University, 2022-2024
+- Machine Learning with R, Bahcesehir University, 2023-2024
 - Econometrics I, Bahcesehir University, 2017-2021.
 - Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017-2021.
 - Public Finance, Sabanci University, 2016; Bahcesehir University, 2017-2018.

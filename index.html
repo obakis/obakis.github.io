@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -29,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script 
 async src="https://www.googletagmanager.com/gtag/js?id=UA-119972040-1">
@@ -159,11 +159,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -192,8 +196,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -201,16 +205,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -380,14 +377,37 @@ div.tocify {
 <p>Economist, Bahcesehir University and Betam</p>
 <p>My full CV is
 <a href="https://obakis.github.io/pdfs/cv_bakis.pdf" target="_blank">here</a>.
-You can find further information on my research on my
-<a href="https://www.researchgate.net/profile/Ozan_Bakis" target="_blank">ResearchGate
-</a> and
-<a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ&hl=en" target="_blank">Google
-Scholar</a> pages.</p>
-<span id="badgeCont699">
-<script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont699&rid=AAE-4941-2019"></script>
-<p></span></p>
+You can find further information about my research on the following
+pages</p>
+<li>
+<a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ"  rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i>
+Google Scholar</a>
+</li>
+<li>
+<a href="https://www.researchgate.net/profile/Ozan_Bakis" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i>
+ResearchGate</a>
+</li>
+<li>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=42560943700" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i>
+Scopus</a>
+</li>
+<li>
+<a href="https://orcid.org/0000-0001-9785-1992" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-address-card" aria-hidden="true"></i>
+ORCID</a>
+</li>
+<li>
+<a href="https://www.webofscience.com/wos/author/record/AAE-4941-2019" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i>
+Clarivate / Web of Science</a>
+</li>
+<!-- 
+<span id="badgeCont699"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont699&rid=AAE-4941-2019"></script></span>
+-->
+</div>
+<div id="section" class="section level1">
+<h1></h1>
+</div>
+<div id="section-1" class="section level1">
+<h1></h1>
 <p>I received my PhD in Economics from University of Paris 1
 Pantheon-Sorbonne in 2006. Before joining Betam as senior researcher in
 2016 I worked, respectively, at Galatasaray University and Sabanci
@@ -399,7 +419,6 @@ Turkish Statistical Institute, and some other private sector
 institutions in the past.</p>
 <p>I am an R enthusiast. I give R courses at various levels, from
 introduction to advanced classes.</p>
-</div>
 <div id="contact-info" class="section level2">
 <h2>Contact Info</h2>
 <p>Bahçeşehir University and Betam<br />
@@ -425,11 +444,12 @@ University</li>
 <li>2008-2011: Lecturer, Galatasaray University</li>
 <li>2001-2008: Research Assistant, Galatasaray University</li>
 </ul>
-<div id="section" class="section level5">
+<div id="section-2" class="section level5">
 <h5></h5>
 <p><strong>Disclaimer:</strong> The views expressed on this website are
 entirely those of the author. They do not necessarily represent the
 views of the Bahçeşehir University or Betam.</p>
+</div>
 </div>
 </div>
 

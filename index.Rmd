@@ -16,11 +16,40 @@ output:
 Economist, Bahcesehir University and Betam    
 
 My full CV is <a href="https://obakis.github.io/pdfs/cv_bakis.pdf" target="_blank">here</a>. 
-You can find further information on my research on my <a href="https://www.researchgate.net/profile/Ozan_Bakis" target="_blank">ResearchGate </a> and  <a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ&hl=en" target="_blank">Google Scholar</a>  pages.   
+You can find further information about my research on the following pages 
 
 
+
+
+
+ <li><a href="https://scholar.google.com/citations?user=NSyOHTIAAAAJ"  rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> Google Scholar</a></li>
+    
+
+    
+ <li><a href="https://www.researchgate.net/profile/Ozan_Bakis" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> ResearchGate</a></li>
+    
+
+    
+ <li><a href="https://www.scopus.com/authid/detail.uri?authorId=42560943700" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> Scopus</a></li>
+    
+
+    
+ <li><a href="https://orcid.org/0000-0001-9785-1992" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-address-card" aria-hidden="true"></i> ORCID</a></li>
+    
+
+    
+<li><a href="https://www.webofscience.com/wos/author/record/AAE-4941-2019" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Clarivate / Web of Science</a>
+</li>
+       
+       
+
+<!-- 
 <span id="badgeCont699"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont699&rid=AAE-4941-2019"></script></span>
+--> 
+       
 
+# 
+#
 
 
 I received my PhD in Economics from University of Paris 1 Pantheon-Sorbonne in 2006.

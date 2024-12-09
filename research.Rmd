@@ -2,189 +2,112 @@
 
 ## Refereed Publications
 
--   Wage inequality dynamics in Turkey (with S. Polat), _Empirica_, 50, 657–694, 2023.  [Download paper from publisher's website](https://doi.org/10.1007/s10663-023-09579-8) [SSCI]. 
-The working paper version is available at the ERF website: https://erf.org.eg/app/uploads/2021/11/1637510427_580_3104124_1509.pdf
+
+- Bakis, O., and Filiztekin, A. (forthcoming). Intergenerational education mobility of minorities in Turkey. *Turkish Studies*.
+
+- Bakis, O., and Polat, S. (2023). Wage inequality dynamics in Turkey. *Empirica, 50*, 657–694. [SSCI] [Download paper from publisher's website](https://doi.org/10.1007/s10663-023-09579-8). The working paper version is available at the ERF website: https://erf.org.eg/app/uploads/2021/11/1637510427_580_3104124_1509.pdf.
+
+- Altindag, O., Bakis, O., and Rozo, S. (2020). Blessing or burden? The impact of refugees on businesses and the informal economy. *Journal of Development Economics, 146*. [SSCI] [Download paper from publisher's website](https://doi.org/10.1016/j.jdeveco.2020.102490). The working paper version is available at: http://dx.doi.org/10.2139/ssrn.3188406.
+
+- Bakis, O., Inci, E., and Senturk, R. O. (2019). Unbundling curbside parking costs from housing prices. *Journal of Economic Geography, 19*(1), 89-119. [SSCI] [Download paper from publisher's website](https://doi.org/10.1093/jeg/lby003)
+
+- Bakis, O., and Borkan, B. (2016). Determinants of academic achievement of middle schoolers in Turkey. *Educational Sciences: Theory & Practice, 16*(6), 2193-2217. [SSCI] [Download](pdfs/art_academic_achievment_estp_2016.pdf)
+
+-  Atiyas, I., and Bakis, O.(2015). Structural change and industrial policy in Turkey. *Emerging Markets Finance and Trade, 51*(6), 1209–1229. [SSCI] [Download](pdfs/art_str_ch-indust_pol_emft_2015.pdf)
+
+- Bakis, O. (2015). Recent trends in the Turkish labor market. *İktisat İşletme ve Finans, 30*(351), 73-110. [EconLit] [Download](pdfs/art_recent_trends_TLM_iif_2015.pdf)
+
+- Bakis, O., Kaymak, B., and Poschke, M. (2015). Transitional dynamics and the optimal progressivity of income redistribution. *Review of Economic Dynamics, 18*(3), 679-693. [SSCI] [Download](pdfs/art_tax_RED_2015.pdf) 
+
+- Bakis, O., and Polat, S. (2015). Wage inequality in Turkey: 2002-10. *Economics of Transition, 23*(1), 169-212. [SSCI] [Download](pdfs/art_wage_ineq_ecot_2015.pdf)
+
+- Atiyas, I. and Bakis, O. (2014). Aggregate and sectoral TFP growth in Turkey: a growth accounting exercise. *İktisat İşletme ve Finans, 29*(341), 9-36. [SSCI] [Download](pdfs/art_tfp_iif_2014.pdf) 
+
+- Bakis, O., Davutyan, N., Levent, H., and Polat, S. (2013). Quantile estimates for social returns to education in Turkey: 2006-2009. *Middle East Development Journal, 5*(3), 1350017-1-1350017-23. [EconLit] [Download](pdfs/art_quintile_medj_2013.pdf) 
+
+- Bakis, O., Davutyan, N., Levent, H., and Polat, S. (2011). Sectoral human capital spillovers: evidence from Turkey. *İktisat İşletme ve Finans, 26*(298), 9-20. [SSCI] [Download](pdfs/art_spillover_iif_2011.pdf)  
 
 
--   Blessing or burden? The impact of refugees on businesses and the informal economy
-    (with O. Altindag and S. Rozo), _Journal of Development Economics_, 146, 2020.
-    [Download paper from publisher's website](https://doi.org/10.1016/j.jdeveco.2020.102490)
-    [SSCI]. 
-    The working paper version is available at SSRN: http://dx.doi.org/10.2139/ssrn.3188406
-
--   Unbundling curbside parking costs from housing prices (with E. Inci
-    ve R.O. Senturk), _Journal of Economic Geography_, 19(1), 89-119,2019. 
-    [Download paper from publisher's website](https://doi.org/10.1093/jeg/lby003)
-    [SSCI].
-
--   Determinants of academic achievement of middle schoolers in Turkey
-    (with B. Borkan), _Educational Sciences: Theory & Practice_, 16(6),
-    2193-2217, 2016. [Download](pdfs/art_academic_achievment_estp_2016.pdf)
-    [SSCI].
-
-
--   Recent trends in the Turkish labor market, _İktisat İşletme ve Finans_, 30(351), 73-110, 2015. [Download](pdfs/art_recent_trends_TLM_iif_2015.pdf)
-    [EconLit].
-
--   Structural change and industrial policy in Turkey (with I. Atiyas),
-    _Emerging Markets Finance and Trade_, 51(6), 1209–1229, 2015.
-    [Download](pdfs/art_str_ch-indust_pol_emft_2015.pdf)
-    [SSCI].
-
--   Transitional dynamics and the optimal progressivity of income
-    redistribution (with B. Kaymak and M. Poschke), _Review of Economic Dynamics_, 18(3), 679-693, 2015. [Download](pdfs/art_tax_RED_2015.pdf) 
-    [SSCI].
-
--   Wage Inequality in Turkey: 2002-10, (with S. Polat), _Economics of Transition_, 23(1), 169-212, 2015. [Download](pdfs/art_wage_ineq_ecot_2015.pdf)
-    [SSCI].
-
--   Aggregate and sectoral TFP growth in Turkey: a growth accounting
-    exercise (with I. Atiyas), _İktisat İşletme ve Finans_, 29(341),
-    9-36, 2014. [Download](pdfs/art_tfp_iif_2014.pdf) 
-    [SSCI].
-
--   Quantile estimates for social returns to education in Turkey:
-    2006-2009 (with N. Davutyan, H. Levent and S. Polat), _Middle East Development Journal_, 5(3), 1350017-1-1350017-23, 2013. 
-    [Download](pdfs/art_quintile_medj_2013.pdf) [EconLit].
-
--   Sectoral human capital spillovers: evidence from Turkey (with N.
-    Davutyan, H. Levent and S. Polat), _İktisat İşletme ve Finans_,
-    26(298), 9-20, 2011. [Download](pdfs/art_spillover_iif_2011.pdf)
-    [SSCI].
 
 ##  Refereed Publications (in Turkish)
 
--   İstanbul işgücü piyasasında rezervasyon ücretleri, 
-[In English: Reservation Wages in Istanbul Labour Market] (with S. Gürsel).  _Ekonomi-tek_, 13(2), 140-159, 2024. 
-    [Download](pdfs/art_ist_rez_ucr_TEK2024.pdf)
-    [TRDizin].
 
--   Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy] (with U. Acar). _Journal of Research in Economics_, 5(1), 1-27, 2021.
-    [Download](pdfs/art_tfp_jre_2021.pdf)
-    [EconLit].
+- Bakis, O., and Gürsel, S. (2024). İstanbul işgücü piyasasında rezervasyon ücretleri [In English: Reservation wages in Istanbul labour market]. *Ekonomi-tek, 13*(2), 140-159. [TRDizin] [Download](pdfs/art_ist_rez_ucr_TEK2024.pdf)
 
--   Zincirlenmiş hacim serileri ile GSYH’de ne değişti? (In English:
-    What changed with GDP in chained volume measures?), _Ekonomi-tek_,  7(2) 1-36, 2018. 
-    [Download](pdfs/art_yeni_seriler_ekonTEK2018.pdf)
+- Bakis, O., and Acar, U. (2021). Türkiye ekonomisinde toplam faktör verimliliği: 1980-2019 [In English: Total factor productivity in Turkish economy]. *Journal of Research in Economics, 5*(1), 1-27. [EconLit] [Download](pdfs/art_tfp_jre_2021.pdf)
 
+- Bakis, O. (2018). Zincirlenmiş hacim serileri ile GSYH’de ne değişti? [In English: What changed with GDP in chained volume measures?]. *Ekonomi-tek, 7*(2), 1-36. [Download](pdfs/art_yeni_seriler_ekonTEK2018.pdf)
 
--   Türkiye'de çalışılan saatlerin dağılımı ve değişimi (In English:
-    Distribution of hours worked in Turkey and its evolution) (with
-    S. Polat, M. Ulus), _Efil Ekonomi Araştırmaları Dergisi_,  1(4) 108-127, 2018. 
-    [Download](pdfs/art_saatler_efil_2018.pdf)
+- Bakis, O., Polat, S., and Ulus, M. (2018). Türkiye'de çalışılan saatlerin dağılımı ve değişimi [In English: Distribution of hours worked in Turkey and its evolution]. *Efil Ekonomi Araştırmaları Dergisi, 1*(4), 108-127. [Download](pdfs/art_saatler_efil_2018.pdf)
 
--   Yeni GSYH serilerinin getirdiği farklılıklar ve sorunlar (In
-    English: The Differences and the problems of the new GDP series),
-    _Journal of Research in Economics_, 2(1), 15-42, 2018. 
-    [Download](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
-    [EconLit].
+- Bakis, O. (2018). Yeni GSYH serilerinin getirdiği farklılıklar ve sorunlar [In English: The Differences and the problems of the new GDP series]. *Journal of Research in Economics, 2*(1), 15-42. [EconLit] [Download](pdfs/art_yeni-vs-eski_gsyh_serileri_mid_2018.pdf)
 
--   Kuşaklar arası eğitim hareketliliği: AB-Türkiye karşılaştırması (In
-    English: Intergenerational educational mobility: An EU-Turkey
-    comparison), _Finans Politik & Ekonomik Yorumlar_, 54(634), 97-105, 2017. [Download](pdfs/art_educ_mobility_fpey_2017.pdf) [EconLit].
+- Bakis, O. (2017). Kuşaklar arası eğitim hareketliliği: AB-Türkiye karşılaştırması [In English: Intergenerational educational mobility: An EU-Turkey comparison]. *Finans Politik & Ekonomik Yorumlar, 54*(634), 97-105. [TRDizin] [Download](pdfs/art_educ_mobility_fpey_2017.pdf) 
 
--   Türkiye'de eğitimin bireysel getirisi: 1988-2008 (In English:
-    Private returns to education in Turkey: 1988-2008), _Finans Politik & Ekonomik Yorumlar_, 52(601), 69-75, 2015. [Download](pdfs/art_r2e_fpey_2015.pdf) [EconLit].
+- Bakis, O. (2015). Türkiye'de eğitimin bireysel getirisi: 1988-2008 [In English: Private returns to education in Turkey: 1988-2008]. *Finans Politik & Ekonomik Yorumlar, 52*(601), 69-75. [TRDizin] [Download](pdfs/art_r2e_fpey_2015.pdf) 
+
 
 ##  Other Publications
 
--  Assessment of a carbon tax as a tool to decarbonize Turkey’s energy supply 2050 (with  D.E. Dalgic, P. Deniz, M. Finger, I. Gumus and E. Köksal). IC4R | İstanbul Center for Regulation, Report Series No.1, 2022. [Download](pdfs/rep_carbon-tax_2022.pdf)
+- Bakis, O., Dalgic, D. E., Deniz, P., Finger, M., Gumus, I., and Köksal, E. (2022). Assessment of a carbon tax as a tool to decarbonize Turkey’s energy supply 2050. IC4R | İstanbul Center for Regulation, Report Series No.1. [Download](pdfs/rep_carbon-tax_2022.pdf)
 
--  Productivity, reallocation, and structural change: An assessment (with I. Atiyas), chapter in _Turkish Economy at the Crossroads: Facing the Challenges Ahead_, ed. by Akat, A.S, and S. Gürsel, World Scientific Publishing: Singapore, 91-122, 2020 [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
+- Bakis, O., and Atiyas, I. (2020). Productivity, reallocation, and structural change: An assessment. In A. S. Akat and S. Gürsel (Eds.), *Turkish Economy at the Crossroads: Facing the Challenges Ahead* (pp. 91-122). World Scientific Publishing: Singapore. [Download](pdfs/ch_str-change_productivity_2020_prepub.pdf)
 
+- Bakis, O., Atiyas, I., and Gürakar, E. (2019). Anatolian tigers and the emergence of the devout bourgeoisie in the Turkish manufacturing industry. In I. Diwan, A. Malik, and I. Atiyas (Eds.), *Crony Capitalism in the Middle East: Business and Politics from Liberalization to the Arab Spring* (pp. 90-118). Oxford University Press: Oxford. [Download](pdfs/ch_tigers_2019.pdf)
 
--   Anatolian tigers and the emergence of the devout bourgeoisie in the turkish manufacturing industry
-    (with I. Atiyas and E. GÜrakar), chapter in _Crony Capitalism in the Middle East: Business and Politics from Liberalization to the Arab Spring_, 
-    ed. by Diwan, I., A. Malik, A. and I. Atiyas, Oxford University Press: Oxford, 90-118, 2019.
-[Download](pdfs/ch_tigers_2019.pdf)
+- Bakis, O., Karanfil, F., and Polat, S. (2016). Depositor myopia and banking sector behaviour. In F. Ulgen (Ed.), *Financial Development, Economic Crises and Emerging Market Economies* (pp. 156-169). Routledge: London. [Download](pdfs/ch_depositor_myopia_2018.pdf)
 
--   Depositor myopia and banking sector behaviour (with F. Karanfil
-    and S. Polat), chapter in _Financial Development, Economic Crises and Emerging Market Economies_ ed. by Ulgen, F., Routledge: London,
-    156-169, 2016.
-[Download](pdfs/ch_depositor_myopia_2018.pdf)
+- Bakis, O., Karanfil, F., and Polat, S. (2012). Interactions between economic growth, innovation, financial development and sustainability in emerging countries. In J. M. Carcillo (Ed.), *Developing Economies: Innovation, Investment and Sustainability* (pp. 223-234). Nova Publishers: New York. [Download](pdfs/ch_interactions_2018.pdf)
 
--   Interactions between economic growth, innovation, financial
-    development and sustainability in emerging countries (with F.
-    Karanfil and S. Polat), chapter in _Developing Economies: Innovation, Investment and Sustainability_ ed. by Carcillo, J.M.,
-    Nova Publishers: New York, 223-234, 2012.
-[Download](pdfs/ch_interactions_2018.pdf)
-
--   Social returns to education in Turkey: a quantile regression
-    approach (with S. Polat, N.Davutyan and H.Levent), chapter in
-    _Secondary Education in the 21st Century_ ed. by Beckett, D.S., Nova
-    Publishers: New York, 101-119, 2010.
-[Download](pdfs/ch_social_returns_2010.pdf)
+- Bakis, O., Polat, S., Davutyan, N., and Levent, H. (2010). Social returns to education in Turkey: A quantile regression approach. In D. S. Beckett (Ed.), *Secondary Education in the 21st Century* (pp. 101-119). Nova Publishers: New York. [Download](pdfs/ch_social_returns_2010.pdf)
+    
+    
+    
     
 ##  Other Publications (in Turkish)
 
-- 1980 sonrası Türkiye ekonomisinde yapısal dönüşüm [In English: Structural transformation in the post-1980 Turkish economy]] (with U. Acar), chapter in
-_Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
+- Bakis, O. (2024). 500 Büyük Sanayi Kuruluşu'nun Son 10 Yıllık Eğilimleri. *İSO Sanayi Dergisi, İSO 500 Özel sayısı*, https://www.iso500.org.tr  [Download](pdfs/art_ISO500_2023_haz2024.pdf)
 
-- Türkiye’de dijital eşitsizlik 2007-2021 arasında nasıl şekillendi? [In English: How did digital inequality evolve in Turkey between 2007-2021?] (with E. Köksal), chapter in
-_Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları_, forthcoming. 
+- Bakis, O., and Acar, U. (forthcoming). 1980 sonrası Türkiye ekonomisinde yapısal dönüşüm [In English: Structural transformation in the post-1980 Turkish economy]. In *Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları*.
 
-- 1980 sonrası Türkiye ekonomisinde verimlilik, kaynak tahsisi ve yapısal değişim [In English: Productivity, resource allocation and structural change in the Post-1980 Turkish economy] (with I. Atiyas), chapter in
-_Çıkmaz Yol: Dünden Yarına Türkiye Ekonomisi_, ed. by Akat, A.S, and S. Gürsel, İstanbul Bilgi Üniversitesi Yayınları: İstanbul, 71-98, 2023. 
- [Download](pdfs/ch_80sonrasi_yapisal-degisim_2023_draft.pdf)
+- Bakis, O., and Köksal, E. (forthcoming). Türkiye’de dijital eşitsizlik 2007-2021 arasında nasıl şekillendi? [In English: How did digital inequality evolve in Turkey between 2007-2021?]. In *Prof. Dr. Seyfettin Gürsel’e Öğrencilerinden Armağan: Türkiye Ekonomisinin Güncel Sorunları*.
 
--   Türkiye'de bilgi iletişim harcamaları ve dijitalleşme (In English: Information and communications technology expenditure and digitalization in Turkey) (with E.
-    Koksal). Betam Araştırma Raporu, 2022.
-    [Download](pdfs/rep_TDTE_2022.pdf)
+- Bakis, O., and Atiyas, I. (2023). 1980 sonrası Türkiye ekonomisinde verimlilik, kaynak tahsisi ve yapısal değişim [In English: Productivity, resource allocation and structural change in the Post-1980 Turkish economy]. In A. S. Akat and S. Gürsel (Eds.), *Çıkmaz Yol: Dünden Yarına Türkiye Ekonomisi* (pp. 71-98). İstanbul Bilgi Üniversitesi Yayınları: İstanbul. [Download](pdfs/ch_80sonrasi_yapisal-degisim_2023_draft.pdf)
 
--   Tanzim satış enflasyonu düşürdü (In English: Direct sale points reduced the inflation rate) (with U.
-    Acar). _İktisat ve Toplum Dergisi_, 102, 31-37, 2019.
-    [Download](pdfs/art_tanzim_itd2019.pdf)
- 
--   Sıçrama yapan şirketler (In English: Leaping companies) (with I.
-    Atiyas). TÜSİAD Publication, No. TUSIAD-T/2018, 04-593, 2018.
-    [Download](pdfs/rep_sicrama_yapan_sirketler_2018.pdf)
+- Bakis, O., and Köksal, E. (2022). Türkiye'de bilgi iletişim harcamaları ve dijitalleşme [In English: Information and communications technology expenditure and digitalization in Turkey]. Betam Araştırma Raporu. [Download](pdfs/rep_TDTE_2022.pdf)
 
--   İmalat sanayi sektörleri rekabet göstergeleri raporu (In English:
-    Report on manufacturing industries competitiveness indices) (with I.
-    Atiyas). TÜSİAD Publication, No. TUSIAD-T/2014-05/551, 2014.
-    [Download](pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf)
+- Bakis, O., and Acar, U. (2019). Tanzim satış enflasyonu düşürdü [In English: Direct sale points reduced the inflation rate]. *İktisat ve Toplum Dergisi, 102*, 31-37. [Download](pdfs/art_tanzim_itd2019.pdf)
 
--   Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması (In
-    English: Constraints to growth in Turkey: a study of prioritization)
-    (with I. Atiyas). TÜSİAD Publication, No. TUSIAD-T/2011/11/519,
-    2011. [Download](pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf)
+- Bakis, O., and Atiyas, I. (2018). Sıçrama yapan şirketler [In English: Leaping companies]. TÜSİAD Publication, No. TUSIAD-T/2018, 04-593. [Download](pdfs/rep_sicrama_yapan_sirketler_2018.pdf)
 
--   Kamu harcamaları ve büyüme: zaman serileri analizi (In
-    English: Public expenditures and growth: a time series analysis)
-    (with T. Jobert and R. Tuncer). Betam Research Report Series No. 1, 2008. 
-    [Download](pdfs/ch_kamu_harcamalari_2008.pdf)
+- Bakis, O., and Atiyas, I. (2014). İmalat sanayi sektörleri rekabet göstergeleri raporu [In English: Report on manufacturing industries competitiveness indices]. TÜSİAD Publication, No. TUSIAD-T/2014-05/551. [Download](pdfs/rep_tusiad_sektorel_gostergeler_2014.pdf)
+
+- Bakis, O., and Atiyas, I. (2011). Türkiye’de büyümenin kısıtları: bir önceliklendirme çalışması [In English: Constraints to growth in Turkey: a study of prioritization]. TÜSİAD Publication, No. TUSIAD-T/2011/11/519. [Download](pdfs/rep_tusiad_buyumenin_kisitlari_2011.pdf)
+
+- Bakis, O., Jobert, T., and Tuncer, R. (2008). Kamu harcamaları ve büyüme: zaman serileri analizi [In English: Public expenditures and growth: a time series analysis]. Betam Research Report Series No. 1. [Download](pdfs/ch_kamu_harcamalari_2008.pdf)
+
+
 
 ##  Working Papers
 
--   Resource reallocation and total factor productivity in Turkiye: 2000-2022, Betam Working Paper Series No. 022, 2024. [Download](pdfs/wp_tfp_decomp_betam.pdf)
-
-- İstanbul işgücü piyasasında rezervasyon ücretleri, Betam Working Paper Series No. 023, 2024.
-[Download](pdfs/wp_RU_betam.pdf)
-
--   Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018 (with U. Acar) Betam Working Paper Series No. 19, 2020.
-[Download](pdfs/wp_sectoral_tfp_betam.pdf)
 
 
--   Firm dynamics and job creation in Turkey - some preliminary results
-    (with I. Atiyas and Y. K. Orhan) TUSIAD-Sabanci University
-    Competitiveness Forum Working Paper No. 2017-1, 2017.
-[Download](pdfs/wp_firm_dyn-job_creation_in_turkey_ref.pdf)
+- Bakis, O. (2024). Resource reallocation and total factor productivity in Turkiye: 2000-2022. Betam Working Paper Series No. 022. [Download](pdfs/wp_tfp_decomp_betam.pdf)
 
--   Identifying the links between innovation and FDI flows in Turkey
-    (with I. Atiyas) TUSIAD-Sabanci University Competitiveness Forum
-    Working Paper No. 2015-1, 2015.
-[Download](pdfs/wp_innovation_fdi_in_turkey_ref.pdf)
+- Bakis, O. (2024). İstanbul işgücü piyasasında rezervasyon ücretleri. Betam Working Paper Series No. 023. [Download](pdfs/wp_RU_betam.pdf)
 
+- Bakis, O., and Acar, U. (2020). Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel bakış, 1980-2018. Betam Working Paper Series No. 19. [Download](pdfs/wp_sectoral_tfp_betam.pdf)
+
+- Bakis, O., Atiyas, I., and Orhan, Y. K. (2017). Firm dynamics and job creation in Turkey - some preliminary results. TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2017-1. [Download](pdfs/wp_firm_dyn-job_creation_in_turkey_ref.pdf)
+
+- Bakis, O., and Atiyas, I. (2015). Identifying the links between innovation and FDI flows in Turkey. TUSIAD-Sabanci University Competitiveness Forum Working Paper No. 2015-1. [Download](pdfs/wp_innovation_fdi_in_turkey_ref.pdf)
 
 
 ##  Work in Progress
 
-- In search of the Holy Grail: impact of foreign direct investment on target firms in Turkey (with I. Atiyas and R. K. Erdemli)
+- Bakis, O., Atiyas, I., and Erdemli, R. K. In search of the Holy Grail: impact of foreign direct investment on target firms in Turkey.
 
-- Intergenerational education mobility between and within vulnerable
-    groups in Turkey (with A. Filiztekin).
-
-- A numerical solution to the second-best optimal taxation.
+- Bakis, O. A numerical solution to the second-best optimal taxation.
 
 <!-- The geography of AKP votes (with A. Filiztekin) -->.
 
