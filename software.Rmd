@@ -1,3 +1,10 @@
+---
+title: ""
+output: 
+  html_document:
+    includes:
+       in_header: GA.html
+---
 
 
 ## Codes for published and working papers
