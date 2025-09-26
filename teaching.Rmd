@@ -38,7 +38,7 @@ https://www.r-project.org/other-docs.html
 ## Undergraduate classes
 
 - Data Science with R, Bahcesehir University, 2022-2024
-- Machine Learning with R, Bahcesehir University, 2023-2024
+- Machine Learning with R, Bahcesehir University, 2023-2025
 - Econometrics I, Bahcesehir University, 2017-2021.
 - Econometrics II, University of Montreal, 2011; Bahcesehir University, 2017-2021.
 - Public Finance, Sabanci University, 2016; Bahcesehir University, 2017-2018.
