@@ -58,7 +58,7 @@ I am a Professor of Economics at Galatasaray University. Previously, I was a Pro
 
 My research focuses on firm dynamics, with a special interest in SME challenges, innovation, productivity, and labor markets. I also work on short-run GDP growth forecasting.
 
-My consulting clients have included the World Bank and the Turkish Statistical Institute. I am also an experienced instructor of the R programming language.
+My consulting experience includes work for the World Bank, the Turkish Statistical Institute, and other public and private institutions. I am an R enthusiast. I give R courses at various levels, from introduction to advanced classes.
 
 
 ## Contact Info
