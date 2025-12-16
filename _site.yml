@@ -15,8 +15,10 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/obakis
     - search: true
+
+# ADD THIS INSTEAD:
 output:
   html_document:
+    theme: journal
     toc: true
     toc_float: true
-    theme: journal

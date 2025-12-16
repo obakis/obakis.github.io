@@ -1,0 +1,6 @@
+# _projects/rbrsa.yml
+title: "rbrsa"
+description: "An R package for automated access to Turkish banking sector data from BRSA (BDDK)."
+link_url: "https://obakis.github.io/rbrsa/"
+link_text: "View Documentation"
+github: "https://github.com/obakis/rbrsa"

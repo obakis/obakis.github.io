@@ -1,0 +1,6 @@
+# _projects/pybrsa.yml
+title: "pybrsa"
+description: "A Python package for accessing Turkish banking sector data from BRSA (BDDK)."
+link_url: "https://obakis.github.io/pybrsa/"
+link_text: "View Documentation"
+github: "https://github.com/obakis/pybrsa"

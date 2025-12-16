@@ -15,6 +15,32 @@ Data for "Türkiye ekonomisinde toplam faktör verimliliğinin seyri: sektörel 
 
 
 
-## R packages
+## R Packages
 
-[ **Under development** ]
+```{r, echo=FALSE, results='asis'}
+library(yaml)
+if (file.exists("_projects/rbrsa.yml")) {
+  proj <- yaml::read_yaml("_projects/rbrsa.yml")
+  cat('###', proj$title, '\n\n')
+  cat(proj$description, '\n\n')
+  cat('[', proj$link_text, '](', proj$link_url, '){target="_blank"}\n')
+  cat('[GitHub Repo](', proj$github, '){target="_blank"}\n')
+  cat('\n---\n')
+}
+```
+
+## Python Packages
+
+```{r, echo=FALSE, results='asis'}
+library(yaml)
+if (file.exists("_projects/pybrsa.yml")) {
+  proj <- yaml::read_yaml("_projects/pybrsa.yml")
+  cat('###', proj$title, '\n\n')
+  cat(proj$description, '\n\n')
+  cat('[', proj$link_text, '](', proj$link_url, '){target="_blank"}\n')
+  cat('[GitHub Repo](', proj$github, '){target="_blank"}\n')
+  cat('\n---\n')
+} else {
+  cat('_No Python packages listed yet._\n')
+}
+```
