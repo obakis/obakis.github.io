@@ -25,6 +25,10 @@ Please see also the list of documents that are freely available on the R website
 
 https://www.r-project.org/other-docs.html
 
+## Python tutorials
+
+
+[UNDER CONSTRUCTION]
 
 
 
