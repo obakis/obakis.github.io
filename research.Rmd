@@ -9,24 +9,24 @@ output:
 
 ## Refereed Publications
 
-- Bakis, O. (2026). The effects of capital and labor reallocation on total factor productivity in Türkiye, 2000–2024. *Central Bank Review*,  1–25. [ESCI,Scopus]
+- Bakis, O. (2026). The effects of capital and labor reallocation on total factor productivity in Türkiye, 2000–2024. *Central Bank Review*, 26(1),  100243. [ESCI,Scopus]
 <div style="margin-left: 10px;">[Download](https://doi.org/10.1016/j.cbrev.2026.100243)  |
 [Working Paper](pdfs/wp_tfp_decomp_betam2024.pdf) </div>
 
 
 
-- Bakis, O., and Filiztekin, A. (2025). Intergenerational education mobility of minorities in Turkey. *Turkish Studies*,  1–25. [SSCI]
+- Bakis, O., and Filiztekin, A. (2025). Intergenerational education mobility of minorities in Turkey. *Turkish Studies*,  26(3), 476–500. [SSCI]
 <div style="margin-left: 10px;">[Download](https://doi.org/10.1080/14683849.2025.2451452) |
 [Working Paper](pdfs/wp_educ_mobility_minorities_betam2022.pdf) 
 </div>
 
 
-- Bakis, O., and Polat, S. (2023). Wage inequality dynamics in Turkey. *Empirica, 50*, 657–694. [SSCI] 
+- Bakis, O., and Polat, S. (2023). Wage inequality dynamics in Turkey. *Empirica*, 50, 657–694. [SSCI] 
 <div style="margin-left: 10px;">[Download](https://doi.org/10.1007/s10663-023-09579-8) |
 [Working Paper](pdfs/wp_wage_ineq_erf2021.pdf) 
 </div>
 
-- Altindag, O., Bakis, O., and Rozo, S. (2020). Blessing or burden? The impact of refugees on businesses and the informal economy. *Journal of Development Economics, 146*. [SSCI] 
+- Altindag, O., Bakis, O., and Rozo, S. (2020). Blessing or burden? The impact of refugees on businesses and the informal economy. *Journal of Development Economics*, 146, 102490. [SSCI] 
 <div style="margin-left: 10px;">[Download](https://doi.org/10.1016/j.jdeveco.2020.102490) |
 [Working Paper](pdfs/wp_syrian_mig-informality_ssci2019.pdf) 
 </div>
