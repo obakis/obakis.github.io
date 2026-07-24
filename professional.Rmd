@@ -38,6 +38,9 @@ output:
 
 
 ## Funded Research Projects
+- [04.2026 - 08.2026]  PMI: "Household Plastic Waste in Türkiye: A Micro-Data
+Estimation"
+
 - [02.2024 - 11.2024]  GYODER: "İnşaat Sektörü ve İşgücü Dinamikleri: Türkiye’24" [In English: Construction Sector and Labor Dynamics: Turkiye ’24]  (with S. Gürsel)
 - [09.2023 - 10.2023]  ZAY Strategy: "Türkiye'de Fındık Sektörünün Sorunları ve Geleceği"
  [In English: Challenges and Future Prospects of the Hazelnut Sector in Turkiye] (with S. Gürsel)
